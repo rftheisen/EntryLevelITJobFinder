@@ -20,7 +20,7 @@ To run this project locally, you will need Python and Node.js installed. Follow 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/entry-level-it-job-finder.git
+   git clone https://github.com/rftheisen/entry-level-it-job-finder.git
    cd entry-level-it-job-finder
    ```
 
