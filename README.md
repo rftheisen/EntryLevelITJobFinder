@@ -1,5 +1,3 @@
-# EntryLevelITJobFinder
-
 # Entry Level IT Job Finder
 
 This project is a web application designed to help users find entry-level IT jobs in a specified location. The app is powered by a Python backend that scrapes Indeed for job listings and a simple HTML front-end that allows users to interact with the app through a clean, modern interface.
