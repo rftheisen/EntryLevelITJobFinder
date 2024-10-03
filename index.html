@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entry Level IT Job Finder</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script>
+        async function searchJobs() {
+            const location = prompt('Please enter the location for job search:');
+            if (!location) return;
+
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+
+            try {
+                // Make a POST request to your local Flask server
+                const response = await fetch('http://127.0.0.1:5000/run-python-script', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ location: location })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Error running Python script');
+                }
+
+                const jobs = await response.json();
+
+                // Display jobs based on the response
+                if (jobs.length === 0) {
+                    resultsDiv.innerHTML = '<p class="no-jobs">No jobs found for the specified location.</p>';
+                } else {
+                    jobs.forEach(job => {
+                        const jobDiv = document.createElement('div');
+                        jobDiv.classList.add('job');
+                        jobDiv.innerHTML = `
+                            <div class="job-header">
+                                <h3>${job.title}</h3>
+                                <a href="${job.link}" target="_blank" class="apply-button"><i class="fas fa-external-link-alt"></i> Apply Here</a>
+                            </div>
+                            <p><strong>Company:</strong> ${job.company}</p>
+                            <p><strong>Location:</strong> ${job.location}</p>
+                            <p><strong>Summary:</strong> ${job.summary}</p>
+                        `;
+                        resultsDiv.appendChild(jobDiv);
+                    });
+                }
+            } catch (error) {
+                console.error('Error fetching job data:', error);
+                resultsDiv.innerHTML = '<p class="error">Unable to load job listings. Please try again later.</p>';
+            }
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        button {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #results {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .job {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.3s ease;
+        }
+        .job:hover {
+            transform: translateY(-5px);
+        }
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .apply-button {
+            background-color: #28a745;
+            color: #fff;
+            padding: 8px 12px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .apply-button:hover {
+            background-color: #218838;
+        }
+        .no-jobs, .error {
+            text-align: center;
+            color: #ff0000;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Entry Level IT Job Finder</h1>
+    <button onclick="searchJobs()">Search Jobs</button>
+    <div id="results"></div>
+</body>
+</html>
+
+/* Note: To run this locally, you need to set up a Flask server to handle the request and execute the Python script. The Flask server will populate the "jobs.json" file. */
