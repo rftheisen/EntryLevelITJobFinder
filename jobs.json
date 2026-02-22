@@ -1,7 +1,25 @@
 {
-  "updated": "2026-02-22T21:07:50Z",
-  "count": 60,
+  "updated": "2026-02-22T21:37:21Z",
+  "count": 16,
   "jobs": [
+    {
+      "id": 7200998,
+      "title": "Infrastructure Site Reliability Engineer (Entry Level)- USDS",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "entry"
+      ],
+      "published": "2026-01-08T19:55:18Z",
+      "url": "https://www.themuse.com/jobs/tiktok/infrastructure-site-reliability-engineer-entry-level-usds-85ea4c"
+    },
     {
       "id": 13940540,
       "title": "Junior Solutions Engineer - SMB, Ads",
@@ -21,12 +39,12 @@
       "url": "https://www.themuse.com/jobs/tiktok/junior-solutions-engineer-smb-ads"
     },
     {
-      "id": 18160077,
-      "title": "(USA) Home Meal Solutions",
-      "company": "Walmart",
+      "id": 19320797,
+      "title": "Cyber Systems Engineer - Cyber Engineer (25-247)",
+      "company": "Northrop Grumman",
       "company_logo": "",
       "locations": [
-        "Cocoa, FL"
+        "Colorado Springs, CO"
       ],
       "remote": false,
       "categories": [
@@ -35,16 +53,16 @@
       "levels": [
         "entry"
       ],
-      "published": "2025-08-13T04:38:46Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-home-meal-solutions-5731e9"
+      "published": "2025-06-25T12:54:48Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/cyber-systems-engineer-cyber-engineer-25247-634d77"
     },
     {
-      "id": 3127974,
-      "title": "Prepared Meals and Rotisserie Chicken Associate",
-      "company": "Walmart",
+      "id": 18391573,
+      "title": "Junior Java Developer",
+      "company": "EPAM Systems",
       "company_logo": "",
       "locations": [
-        "Roseville, MI"
+        "Wroclaw, Poland"
       ],
       "remote": false,
       "categories": [
@@ -53,62 +71,8 @@
       "levels": [
         "entry"
       ],
-      "published": "2025-08-13T04:14:35Z",
-      "url": "https://www.themuse.com/jobs/walmart/prepared-meals-and-rotisserie-chicken-associate-ee1428"
-    },
-    {
-      "id": 3118119,
-      "title": "Meat Cutter and Wrapper",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Roseville, MI"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-08-13T04:02:28Z",
-      "url": "https://www.themuse.com/jobs/walmart/meat-cutter-and-wrapper-111c90"
-    },
-    {
-      "id": 19064999,
-      "title": "Customer Assistance Representative - Redmond Airport",
-      "company": "Enterprise Mobility",
-      "company_logo": "",
-      "locations": [
-        "Redmond, OR"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-05-23T12:34:55Z",
-      "url": "https://www.themuse.com/jobs/enterprisemobility/customer-assistance-representative-redmond-airport-459806"
-    },
-    {
-      "id": 18742029,
-      "title": "Trainee Necropsy Scientist",
-      "company": "Labcorp",
-      "company_logo": "",
-      "locations": [
-        "Saint Neots, United Kingdom"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-05-08T00:21:06Z",
-      "url": "https://www.themuse.com/jobs/labcorp/trainee-necropsy-scientist-854bc0"
+      "published": "2025-04-16T12:37:15Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/junior-java-developer-d1726f"
     },
     {
       "id": 18538342,
@@ -165,6 +129,60 @@
       "url": "https://www.themuse.com/jobs/epamsystems/junior-android-developer-42e443"
     },
     {
+      "id": 18391749,
+      "title": "Junior Salesforce Developer",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Ozork\u00f3w, Poland"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "entry"
+      ],
+      "published": "2025-04-15T12:28:12Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/junior-salesforce-developer-650426"
+    },
+    {
+      "id": 18507537,
+      "title": "Junior Game Tester",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "C\u00f3rdoba, Argentina"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "entry"
+      ],
+      "published": "2025-04-12T12:39:43Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/junior-game-tester-c5944a"
+    },
+    {
+      "id": 18507579,
+      "title": "Junior Game Tester",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Buenos Aires, Argentina"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "entry"
+      ],
+      "published": "2025-04-12T12:39:43Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/junior-game-tester-04530f"
+    },
+    {
       "id": 18473335,
       "title": "Software Developer - Entry level",
       "company": "Leidos",
@@ -201,12 +219,12 @@
       "url": "https://www.themuse.com/jobs/epamsystems/junior-devops-engineer-9a419d"
     },
     {
-      "id": 17757150,
-      "title": "Junior Engineer - Production",
-      "company": "Flex",
+      "id": 18314913,
+      "title": "Junior Business Application Support Specialist",
+      "company": "EPAM Systems",
       "company_logo": "",
       "locations": [
-        "Bangalore, India"
+        "Zhezqazghan, Kazakhstan"
       ],
       "remote": false,
       "categories": [
@@ -215,818 +233,8 @@
       "levels": [
         "entry"
       ],
-      "published": "2025-04-08T00:25:07Z",
-      "url": "https://www.themuse.com/jobs/flex/junior-engineer-production-e8f567"
-    },
-    {
-      "id": 17933730,
-      "title": "Assistente em Processos Administrativos Junior - Horto - Contas a Pagar/ Receber",
-      "company": "IBM",
-      "company_logo": "",
-      "locations": [
-        "Hortol\u00e2ndia, Brazil"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-04-03T11:57:46Z",
-      "url": "https://www.themuse.com/jobs/ibm/assistente-em-processos-administrativos-junior-horto-contas-a-pagar-receber"
-    },
-    {
-      "id": 18265410,
-      "title": "(USA) Tire & Battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Dothan, AL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-20T12:55:20Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-battery-technician-automotive-1f7bc3"
-    },
-    {
-      "id": 18265209,
-      "title": "(USA) Tire & Battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Lenexa, KS"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-20T12:55:19Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-battery-technician-automotive-475eec"
-    },
-    {
-      "id": 18252824,
-      "title": "(USA) Freight Flow Associate",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Montgomery, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-19T12:59:54Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-freight-flow-associate-613b6a"
-    },
-    {
-      "id": 18240472,
-      "title": "(USA) Cake Decorator",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Montgomery, AL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-18T14:02:21Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-cake-decorator-e756c5"
-    },
-    {
-      "id": 18240451,
-      "title": "(USA) Tire & Battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Laurel, MD"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-18T14:02:21Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-battery-technician-automotive-31427b"
-    },
-    {
-      "id": 18233092,
-      "title": "(USA) Carwash/Gas Attendant",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Norman, OK"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-17T13:15:07Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-carwashgas-attendant-2f1f2d"
-    },
-    {
-      "id": 18218567,
-      "title": "(USA) Cake Decorator",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Chesapeake, VA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-15T13:20:36Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-cake-decorator-ee77d4"
-    },
-    {
-      "id": 18218633,
-      "title": "(USA) Home Meal Solutions & Rotisserie PT",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Columbus, IN"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-15T13:20:36Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-home-meal-solutions-rotisserie-pt-fbf7d6"
-    },
-    {
-      "id": 18218623,
-      "title": "(USA) Freight Flow Associate",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Lady Lake, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-15T13:20:36Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-freight-flow-associate-0f48be"
-    },
-    {
-      "id": 18218426,
-      "title": "(USA) Freight Flow Associate",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Brooksville, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-15T13:20:34Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-freight-flow-associate-fe21ef"
-    },
-    {
-      "id": 18218398,
-      "title": "(USA) Tire and Battery Center Team Leader",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Bellevue, NE"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-15T13:20:34Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-and-battery-center-team-leader-a2314f"
-    },
-    {
-      "id": 18218462,
-      "title": "(USA) Freight Flow Associate",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Columbus, GA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-15T13:20:34Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-freight-flow-associate-5acb63"
-    },
-    {
-      "id": 18218408,
-      "title": "(USA) Meat Cutter / Wrapper",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "San Dimas, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-15T13:20:33Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-meat-cutter-wrapper-30ab5a"
-    },
-    {
-      "id": 18206738,
-      "title": "(USA) Home Meal Solutions",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Columbia, SC"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-14T13:22:00Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-home-meal-solutions-7bd33f"
-    },
-    {
-      "id": 18206691,
-      "title": "(USA) Carwash/Gas Attendant",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Traverse City, MI"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-14T13:21:59Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-carwashgas-attendant-960841"
-    },
-    {
-      "id": 18206692,
-      "title": "Home Meal Solutions & Rotisserie",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Fort Smith, AR"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-14T13:21:59Z",
-      "url": "https://www.themuse.com/jobs/walmart/home-meal-solutions-rotisserie-c3b61a"
-    },
-    {
-      "id": 18182193,
-      "title": "Tire & Battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Decatur, IL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-12T13:24:56Z",
-      "url": "https://www.themuse.com/jobs/walmart/tire-battery-technician-automotive-4ba319"
-    },
-    {
-      "id": 18182128,
-      "title": "(USA) Cake Decorator",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Madison Heights, MI"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-12T13:24:55Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-cake-decorator-0b2dea"
-    },
-    {
-      "id": 18168485,
-      "title": "Backroom Associate - Sam's Club",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Reading, PA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-11T13:19:19Z",
-      "url": "https://www.themuse.com/jobs/walmart/backroom-associate-sams-club-0cc19f"
-    },
-    {
-      "id": 18169275,
-      "title": "(USA) Cake Decorator",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Winston Salem, NC"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-11T13:19:18Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-cake-decorator-66946a"
-    },
-    {
-      "id": 18169268,
-      "title": "(USA) Cake Decorator",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Bossier City, LA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-11T13:19:17Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-cake-decorator-da5007"
-    },
-    {
-      "id": 18161044,
-      "title": "(USA) Home Meal Solutions & Rotisserie",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "New Kensington, PA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-10T13:14:51Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-home-meal-solutions-rotisserie-16d2e1"
-    },
-    {
-      "id": 18161059,
-      "title": "(USA) Personal Shopper Lead - Sam's",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Asheville, NC"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-10T13:14:51Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-personal-shopper-lead-sams-6ddef1"
-    },
-    {
-      "id": 18151307,
-      "title": "Home Meal Solutions & Rotisserie",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Cranberry Township, PA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-09T13:15:55Z",
-      "url": "https://www.themuse.com/jobs/walmart/home-meal-solutions-rotisserie-749f26"
-    },
-    {
-      "id": 18146362,
-      "title": "(USA) Tire and Battery Center Team Leader",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Jacksonville, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-09T00:48:40Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-and-battery-center-team-leader-1801bb"
-    },
-    {
-      "id": 18146918,
-      "title": "Merchandising Lead",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "South Portland, ME"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-09T00:48:39Z",
-      "url": "https://www.themuse.com/jobs/walmart/merchandising-lead-8cd465"
-    },
-    {
-      "id": 18147088,
-      "title": "Cake Decorator",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Greenville, NC"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-09T00:48:39Z",
-      "url": "https://www.themuse.com/jobs/walmart/cake-decorator-3e7658"
-    },
-    {
-      "id": 18139868,
-      "title": "(USA) Personal Shopper Lead - Sam's",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Jacksonville, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-08T00:57:28Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-personal-shopper-lead-sams-fb5836"
-    },
-    {
-      "id": 18139735,
-      "title": "(USA) Tire & Battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Concord, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-08T00:57:26Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-battery-technician-automotive-b55d12"
-    },
-    {
-      "id": 18139730,
-      "title": "(USA) Backroom Associate - Sam's Club",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "San Antonio, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-08T00:57:26Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-backroom-associate-sams-club-7d3cac"
-    },
-    {
-      "id": 18139642,
-      "title": "(USA) Cake Decorator",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Thornton, CO"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-08T00:57:25Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-cake-decorator-9fe786"
-    },
-    {
-      "id": 18139652,
-      "title": "(USA) Home Meal Solutions",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Hagerstown, MD"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-08T00:57:25Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-home-meal-solutions-1d78df"
-    },
-    {
-      "id": 18139625,
-      "title": "(USA) Home Meal Solutions",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Cleveland, OH"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-08T00:57:25Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-home-meal-solutions-872a0e"
-    },
-    {
-      "id": 18128407,
-      "title": "Merchandising Lead",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Battle Creek, MI"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-07T01:02:14Z",
-      "url": "https://www.themuse.com/jobs/walmart/merchandising-lead-f2ede9"
-    },
-    {
-      "id": 18128341,
-      "title": "(USA) Asset Protection Assoc - Sam's",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Niagara Falls, NY"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-07T01:02:13Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-asset-protection-assoc-sams-8525f6"
-    },
-    {
-      "id": 18109073,
-      "title": "(USA) Personal Shopper Lead - Sam's",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Garland, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-05T13:36:41Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-personal-shopper-lead-sams-641bf1"
-    },
-    {
-      "id": 18101307,
-      "title": "(USA) Merchandising Lead",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Flagstaff, AZ"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-05T01:05:16Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-merchandising-lead-99148f"
-    },
-    {
-      "id": 18077413,
-      "title": "(USA) Home Meal Solutions",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Roswell, NM"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-03T00:40:59Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-home-meal-solutions-4e95cb"
-    },
-    {
-      "id": 18049227,
-      "title": "Home Meal Solutions & Rotisserie FT",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Sioux Falls, SD"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-03-01T00:50:50Z",
-      "url": "https://www.themuse.com/jobs/walmart/home-meal-solutions-rotisserie-ft-35e634"
-    },
-    {
-      "id": 18038400,
-      "title": "(USA) Tire & battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Pembroke Pines, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-02-28T00:42:21Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-battery-technician-automotive-18dd3e"
-    },
-    {
-      "id": 18006445,
-      "title": "(USA) Tire & Battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Savannah, GA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-02-25T00:53:15Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-battery-technician-automotive-a100d6"
-    },
-    {
-      "id": 17984122,
-      "title": "(USA) Tire & Battery Technician - Automotive",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "St. Petersburg, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-02-22T00:52:58Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-tire-battery-technician-automotive-f1864a"
-    },
-    {
-      "id": 17984062,
-      "title": "Tire & Battery Technician - Automotive Full Time",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Riverview, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-02-22T00:52:57Z",
-      "url": "https://www.themuse.com/jobs/walmart/tire-battery-technician-automotive-full-time-6b0673"
-    },
-    {
-      "id": 17943396,
-      "title": "(USA) Forklift-Merchandising Associate",
-      "company": "Walmart",
-      "company_logo": "",
-      "locations": [
-        "Jacksonville, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-02-19T00:44:17Z",
-      "url": "https://www.themuse.com/jobs/walmart/usa-forkliftmerchandising-associate-aa1a3f"
+      "published": "2025-03-29T12:36:51Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/junior-business-application-support-specialist"
     },
     {
       "id": 17143039,
