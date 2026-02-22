@@ -1,129 +1,459 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Entry Level IT Job Finder</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <script>
-        async function searchJobs() {
-            const location = prompt('Please enter the location for job search:');
-            if (!location) return;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Entry Level IT Job Finder</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #22263a;
+      --border: rgba(255,255,255,0.08);
+      --text: #e8eaf0;
+      --muted: #8b93a7;
+      --accent: #818cf8;
+      --accent2: #34d399;
+      --red: #f87171;
+      --radius: 12px;
+    }
 
-            const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = '';
+    * { box-sizing: border-box; margin: 0; padding: 0; }
 
-            try {
-                // Make a POST request to your local Flask server
-                const response = await fetch('http://127.0.0.1:5000/run-python-script', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({ location: location })
-                });
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 0 0 60px;
+    }
 
-                if (!response.ok) {
-                    throw new Error('Error running Python script');
-                }
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 28px 24px 24px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: clamp(1.4rem, 4vw, 2rem);
+      font-weight: 700;
+      background: linear-gradient(135deg, #818cf8, #34d399);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 6px;
+    }
+    header p {
+      font-size: 14px;
+      color: var(--muted);
+    }
+    #last-updated {
+      display: inline-block;
+      margin-top: 8px;
+      font-size: 12px;
+      color: var(--muted);
+      background: var(--surface2);
+      padding: 3px 10px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+    }
 
-                const jobs = await response.json();
+    /* ── Controls ── */
+    .controls {
+      max-width: 900px;
+      margin: 28px auto 0;
+      padding: 0 20px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
 
-                // Display jobs based on the response
-                if (jobs.length === 0) {
-                    resultsDiv.innerHTML = '<p class="no-jobs">No jobs found for the specified location.</p>';
-                } else {
-                    jobs.forEach(job => {
-                        const jobDiv = document.createElement('div');
-                        jobDiv.classList.add('job');
-                        jobDiv.innerHTML = `
-                            <div class="job-header">
-                                <h3>${job.title}</h3>
-                                <a href="${job.link}" target="_blank" class="apply-button"><i class="fas fa-external-link-alt"></i> Apply Here</a>
-                            </div>
-                            <p><strong>Company:</strong> ${job.company}</p>
-                            <p><strong>Location:</strong> ${job.location}</p>
-                            <p><strong>Summary:</strong> ${job.summary}</p>
-                        `;
-                        resultsDiv.appendChild(jobDiv);
-                    });
-                }
-            } catch (error) {
-                console.error('Error fetching job data:', error);
-                resultsDiv.innerHTML = '<p class="error">Unable to load job listings. Please try again later.</p>';
-            }
-        }
-    </script>
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        button {
-            display: block;
-            width: 200px;
-            margin: 20px auto;
-            padding: 10px;
-            font-size: 16px;
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-        button:hover {
-            background-color: #0056b3;
-        }
-        #results {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        .job {
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            margin-bottom: 20px;
-            transition: transform 0.3s ease;
-        }
-        .job:hover {
-            transform: translateY(-5px);
-        }
-        .job-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .apply-button {
-            background-color: #28a745;
-            color: #fff;
-            padding: 8px 12px;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
-        .apply-button:hover {
-            background-color: #218838;
-        }
-        .no-jobs, .error {
-            text-align: center;
-            color: #ff0000;
-            font-weight: bold;
-        }
-    </style>
+    .search-wrap {
+      flex: 1 1 260px;
+      position: relative;
+    }
+    .search-wrap svg {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--muted);
+      pointer-events: none;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 11px 14px 11px 38px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    input[type="text"]:focus { border-color: var(--accent); }
+    input[type="text"]::placeholder { color: var(--muted); }
+
+    select {
+      padding: 11px 14px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      font-size: 14px;
+      outline: none;
+      cursor: pointer;
+      transition: border-color 0.2s;
+      min-width: 150px;
+    }
+    select:focus { border-color: var(--accent); }
+
+    .pill-group {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .pill {
+      padding: 7px 14px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 500;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.15s;
+      user-select: none;
+    }
+    .pill:hover { border-color: var(--accent); color: var(--accent); }
+    .pill.active {
+      background: rgba(129,140,248,0.15);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .pill.active.remote {
+      background: rgba(52,211,153,0.12);
+      border-color: var(--accent2);
+      color: var(--accent2);
+    }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      max-width: 900px;
+      margin: 18px auto 0;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    #result-count { font-weight: 600; color: var(--text); }
+
+    /* ── Job Grid ── */
+    #results {
+      max-width: 900px;
+      margin: 18px auto 0;
+      padding: 0 20px;
+      display: grid;
+      gap: 14px;
+    }
+
+    /* ── Job Card ── */
+    .job-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px 22px;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+      transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+    }
+    .job-card:hover {
+      border-color: rgba(129,140,248,0.35);
+      transform: translateY(-2px);
+      box-shadow: 0 6px 24px rgba(0,0,0,0.35);
+    }
+
+    .company-logo {
+      width: 44px;
+      height: 44px;
+      border-radius: 8px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--accent);
+      flex-shrink: 0;
+      overflow: hidden;
+    }
+    .company-logo img { width: 100%; height: 100%; object-fit: cover; }
+
+    .job-body { flex: 1; min-width: 0; }
+
+    .job-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+      line-height: 1.4;
+    }
+
+    .job-company {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .job-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+    .tag {
+      font-size: 11px;
+      font-weight: 500;
+      padding: 3px 9px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      background: var(--surface2);
+    }
+    .tag.remote-tag {
+      border-color: rgba(52,211,153,0.35);
+      color: var(--accent2);
+      background: rgba(52,211,153,0.08);
+    }
+
+    .job-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .job-date {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .apply-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 16px;
+      border-radius: 8px;
+      background: rgba(129,140,248,0.15);
+      border: 1px solid rgba(129,140,248,0.35);
+      color: var(--accent);
+      font-size: 13px;
+      font-weight: 500;
+      text-decoration: none;
+      transition: background 0.2s, border-color 0.2s;
+    }
+    .apply-btn:hover {
+      background: rgba(129,140,248,0.25);
+      border-color: var(--accent);
+    }
+
+    /* ── Empty / Loading / Error states ── */
+    .state-msg {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .state-msg .icon { font-size: 40px; margin-bottom: 12px; }
+    .state-msg p { font-size: 15px; }
+    .state-msg small { font-size: 13px; display: block; margin-top: 6px; }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .job-card { flex-direction: column; }
+      .controls { flex-direction: column; }
+      select { width: 100%; }
+    }
+  </style>
 </head>
 <body>
-    <h1>Entry Level IT Job Finder</h1>
-    <button onclick="searchJobs()">Search Jobs</button>
-    <div id="results"></div>
+
+<header>
+  <h1>🖥️ Entry Level IT Job Finder</h1>
+  <p>Curated entry-level IT &amp; tech roles, refreshed daily.</p>
+  <span id="last-updated">Loading...</span>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+    </svg>
+    <input type="text" id="search" placeholder="Search by title or company…" />
+  </div>
+
+  <select id="sort">
+    <option value="newest">Newest first</option>
+    <option value="oldest">Oldest first</option>
+    <option value="company">Company A–Z</option>
+  </select>
+
+  <div class="pill-group">
+    <span class="pill active" data-filter="all">All</span>
+    <span class="pill remote" data-filter="remote">🌐 Remote only</span>
+  </div>
+</div>
+
+<div class="stats-bar">
+  <span>Showing <span id="result-count">—</span> jobs</span>
+</div>
+
+<div id="results">
+  <div class="state-msg">
+    <div class="icon">⏳</div>
+    <p>Loading job listings…</p>
+  </div>
+</div>
+
+<script>
+  let allJobs = [];
+  let activeFilter = 'all';
+
+  // ── Helpers ──────────────────────────────────────────
+  function timeAgo(dateStr) {
+    if (!dateStr) return '';
+    const diff = Date.now() - new Date(dateStr).getTime();
+    const days = Math.floor(diff / 86400000);
+    if (days === 0) return 'Today';
+    if (days === 1) return 'Yesterday';
+    if (days < 30) return `${days}d ago`;
+    const months = Math.floor(days / 30);
+    return months === 1 ? '1 month ago' : `${months} months ago`;
+  }
+
+  function initials(company) {
+    return (company || '?')
+      .split(/\s+/)
+      .slice(0, 2)
+      .map(w => w[0])
+      .join('')
+      .toUpperCase();
+  }
+
+  // ── Render ────────────────────────────────────────────
+  function render() {
+    const query = document.getElementById('search').value.trim().toLowerCase();
+    const sort  = document.getElementById('sort').value;
+
+    let jobs = allJobs.filter(job => {
+      if (activeFilter === 'remote' && !job.remote) return false;
+      if (query) {
+        const haystack = `${job.title} ${job.company} ${job.locations.join(' ')} ${job.categories.join(' ')}`.toLowerCase();
+        if (!haystack.includes(query)) return false;
+      }
+      return true;
+    });
+
+    // Sort
+    if (sort === 'newest') jobs.sort((a, b) => new Date(b.published) - new Date(a.published));
+    if (sort === 'oldest') jobs.sort((a, b) => new Date(a.published) - new Date(b.published));
+    if (sort === 'company') jobs.sort((a, b) => a.company.localeCompare(b.company));
+
+    document.getElementById('result-count').textContent = jobs.length;
+    const container = document.getElementById('results');
+
+    if (jobs.length === 0) {
+      container.innerHTML = `
+        <div class="state-msg">
+          <div class="icon">🔍</div>
+          <p>No jobs match your search.</p>
+          <small>Try a different keyword or clear the filter.</small>
+        </div>`;
+      return;
+    }
+
+    container.innerHTML = jobs.map(job => {
+      const locationStr = job.locations.length
+        ? job.locations.join(', ')
+        : 'Location not listed';
+
+      const logoHtml = job.company_logo
+        ? `<img src="${job.company_logo}" alt="${job.company}" onerror="this.parentElement.textContent='${initials(job.company)}'">`
+        : initials(job.company);
+
+      const remoteBadge = job.remote
+        ? `<span class="tag remote-tag">🌐 Remote</span>`
+        : '';
+
+      const categoryTags = job.categories
+        .map(c => `<span class="tag">${c}</span>`)
+        .join('');
+
+      return `
+        <div class="job-card">
+          <div class="company-logo">${logoHtml}</div>
+          <div class="job-body">
+            <div class="job-title">${job.title}</div>
+            <div class="job-company">${job.company} · ${locationStr}</div>
+            <div class="job-tags">
+              ${remoteBadge}
+              ${categoryTags}
+            </div>
+            <div class="job-footer">
+              <span class="job-date">${timeAgo(job.published)}</span>
+              <a class="apply-btn" href="${job.url}" target="_blank" rel="noopener">
+                View &amp; Apply ↗
+              </a>
+            </div>
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  // ── Load data ─────────────────────────────────────────
+  async function init() {
+    try {
+      const res = await fetch('jobs.json?_=' + Date.now());
+      if (!res.ok) throw new Error('Failed to load jobs.json');
+      const data = await res.json();
+
+      allJobs = data.jobs || [];
+
+      const updated = data.updated
+        ? new Date(data.updated).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+        : '—';
+      document.getElementById('last-updated').textContent = `Last updated: ${updated} · ${data.count} jobs`;
+
+      render();
+    } catch (err) {
+      document.getElementById('results').innerHTML = `
+        <div class="state-msg">
+          <div class="icon">⚠️</div>
+          <p>Could not load job listings.</p>
+          <small>${err.message}</small>
+        </div>`;
+    }
+  }
+
+  // ── Events ────────────────────────────────────────────
+  document.getElementById('search').addEventListener('input', render);
+  document.getElementById('sort').addEventListener('change', render);
+
+  document.querySelectorAll('.pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      activeFilter = pill.dataset.filter;
+      render();
+    });
+  });
+
+  init();
+</script>
+
 </body>
 </html>
-
-/* Note: To run this locally, you need to set up a Flask server to handle the request and execute the Python script. The Flask server will populate the "jobs.json" file. */
