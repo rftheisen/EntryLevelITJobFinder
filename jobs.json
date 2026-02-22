@@ -1,7 +1,61 @@
 {
-  "updated": "2026-02-22T21:37:21Z",
-  "count": 16,
+  "updated": "2026-02-22T22:17:56Z",
+  "count": 40,
   "jobs": [
+    {
+      "id": 19373449,
+      "title": "Software Engineer (Leadership) - Product",
+      "company": "Meta",
+      "company_logo": "",
+      "locations": [
+        "Flexible / Remote"
+      ],
+      "remote": true,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-01-28T19:29:26Z",
+      "url": "https://www.themuse.com/jobs/meta/software-engineer-leadership-product-3a1f94"
+    },
+    {
+      "id": 19395412,
+      "title": "Software Engineer, Product",
+      "company": "Meta",
+      "company_logo": "",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-01-28T19:29:22Z",
+      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-4f315c"
+    },
+    {
+      "id": 15063656,
+      "title": "Software Engineer, Recommendations - USDS",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-01-08T19:55:20Z",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-recommendations-usds"
+    },
     {
       "id": 7200998,
       "title": "Infrastructure Site Reliability Engineer (Entry Level)- USDS",
@@ -19,6 +73,24 @@
       ],
       "published": "2026-01-08T19:55:18Z",
       "url": "https://www.themuse.com/jobs/tiktok/infrastructure-site-reliability-engineer-entry-level-usds-85ea4c"
+    },
+    {
+      "id": 10637202,
+      "title": "Site Reliability Engineer, Recommendation Infrastructure - USDS",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-01-07T19:57:19Z",
+      "url": "https://www.themuse.com/jobs/tiktok/site-reliability-engineer-recommendation-infrastructure-usds-30e971"
     },
     {
       "id": 13940540,
@@ -39,6 +111,61 @@
       "url": "https://www.themuse.com/jobs/tiktok/junior-solutions-engineer-smb-ads"
     },
     {
+      "id": 19347624,
+      "title": "Private Cloud Engineer",
+      "company": "Kyndryl",
+      "company_logo": "",
+      "locations": [
+        "Flexible / Remote",
+        "Hoofddorp, Netherlands"
+      ],
+      "remote": true,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-10-31T18:32:43Z",
+      "url": "https://www.themuse.com/jobs/kyndryl/private-cloud-engineer-eaa797"
+    },
+    {
+      "id": 13048435,
+      "title": "Backend Software Engineer - TikTok Live (Fund Safety) - Singapore",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Singapore"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-08-29T20:12:23Z",
+      "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-tiktok-live-fund-safety-singapore"
+    },
+    {
+      "id": 9181948,
+      "title": "Software Engineer, TikTok Brand Ads",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-08-09T00:18:41Z",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-tiktok-brand-ads-b8ec2e"
+    },
+    {
       "id": 19320797,
       "title": "Cyber Systems Engineer - Cyber Engineer (25-247)",
       "company": "Northrop Grumman",
@@ -55,6 +182,24 @@
       ],
       "published": "2025-06-25T12:54:48Z",
       "url": "https://www.themuse.com/jobs/northropgrumman/cyber-systems-engineer-cyber-engineer-25247-634d77"
+    },
+    {
+      "id": 18491490,
+      "title": "Software Engineer, Cloud Music Library - Apple Services Engineering",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-04-17T12:03:33Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-cloud-music-library-apple-services-engineering-761297"
     },
     {
       "id": 18391573,
@@ -147,6 +292,60 @@
       "url": "https://www.themuse.com/jobs/epamsystems/junior-salesforce-developer-650426"
     },
     {
+      "id": 16890475,
+      "title": "Infrastructure Engineer",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Bucharest, Romania"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-04-15T12:28:12Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/infrastructure-engineer-4278e8"
+    },
+    {
+      "id": 18491597,
+      "title": "Full Stack Software Engineer - Information Security",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-04-13T12:01:23Z",
+      "url": "https://www.themuse.com/jobs/apple/full-stack-software-engineer-information-security-c290c6"
+    },
+    {
+      "id": 18492136,
+      "title": "Machine Learning Engineer - Machine Translation Automation",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-04-13T12:01:18Z",
+      "url": "https://www.themuse.com/jobs/apple/machine-learning-engineer-machine-translation-automation-e4103b"
+    },
+    {
       "id": 18507537,
       "title": "Junior Game Tester",
       "company": "EPAM Systems",
@@ -181,6 +380,42 @@
       ],
       "published": "2025-04-12T12:39:43Z",
       "url": "https://www.themuse.com/jobs/epamsystems/junior-game-tester-04530f"
+    },
+    {
+      "id": 18507475,
+      "title": "Application Support Engineer",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Guadalajara, Mexico"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-04-12T12:39:43Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/application-support-engineer-f0ae79"
+    },
+    {
+      "id": 17915392,
+      "title": "Java middleware software developer",
+      "company": "IBM",
+      "company_logo": "",
+      "locations": [
+        "Guadalajara, Mexico"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-04-12T11:48:51Z",
+      "url": "https://www.themuse.com/jobs/ibm/java-middleware-software-developer-c93f85"
     },
     {
       "id": 18473335,
@@ -237,6 +472,114 @@
       "url": "https://www.themuse.com/jobs/epamsystems/junior-business-application-support-specialist"
     },
     {
+      "id": 15009748,
+      "title": "Full Stack Engineer (C#/React)",
+      "company": "Rockstar Games",
+      "company_logo": "",
+      "locations": [
+        "Edinburgh, United Kingdom"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-19T23:37:30Z",
+      "url": "https://www.themuse.com/jobs/rockstargames/full-stack-engineer-creact-20cb62"
+    },
+    {
+      "id": 18249628,
+      "title": "Systems Engineer - Amazon Connect - Python/Node.js",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-19T12:34:51Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/systems-engineer-amazon-connect-pythonnodejs"
+    },
+    {
+      "id": 18249925,
+      "title": "Systems Engineer - Amazon Connect - Python/Node.js",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Chennai, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-19T12:34:51Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/systems-engineer-amazon-connect-pythonnodejs-832530"
+    },
+    {
+      "id": 17613768,
+      "title": "Automation Engineer - L3",
+      "company": "Wipro",
+      "company_logo": "",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-02-23T23:42:11Z",
+      "url": "https://www.themuse.com/jobs/wipro/automation-engineer-l3-858038"
+    },
+    {
+      "id": 17957751,
+      "title": "Software Engineering with Java - Payments",
+      "company": "JPMorgan Chase",
+      "company_logo": "",
+      "locations": [
+        "Bournemouth, United Kingdom"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-02-21T12:02:56Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineering-with-java-payments"
+    },
+    {
+      "id": 16890508,
+      "title": "Key Full Stack Engineer (Java and Angular)",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Gavarr, Armenia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-02-15T12:43:20Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/key-full-stack-engineer-java-and-angular-16dedb"
+    },
+    {
       "id": 17143039,
       "title": "Junior Service Desk Specialist",
       "company": "EPAM Systems",
@@ -271,6 +614,96 @@
       ],
       "published": "2024-11-01T23:59:11Z",
       "url": "https://www.themuse.com/jobs/intapp/junior-java-software-engineer-78d627"
+    },
+    {
+      "id": 5913268,
+      "title": "Site Reliability Engineer - Azure",
+      "company": "Intapp",
+      "company_logo": "",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2024-11-01T23:55:44Z",
+      "url": "https://www.themuse.com/jobs/intapp/site-reliability-engineer-azure-d378b9"
+    },
+    {
+      "id": 6579906,
+      "title": "Java Software Engineer",
+      "company": "Intapp",
+      "company_logo": "",
+      "locations": [
+        "Kyiv, Ukraine"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2024-11-01T23:55:40Z",
+      "url": "https://www.themuse.com/jobs/intapp/java-software-engineer-7bbd5e"
+    },
+    {
+      "id": 8031532,
+      "title": "Software Engineer - Backend ",
+      "company": "KeepTruckin",
+      "company_logo": "",
+      "locations": [
+        "Flexible / Remote"
+      ],
+      "remote": true,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2024-11-01T23:51:49Z",
+      "url": "https://www.themuse.com/jobs/keeptruckin/software-engineer-backend-763246"
+    },
+    {
+      "id": 8677715,
+      "title": "Software Engineer - Android",
+      "company": "KeepTruckin",
+      "company_logo": "",
+      "locations": [
+        "Flexible / Remote"
+      ],
+      "remote": true,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2024-11-01T23:51:32Z",
+      "url": "https://www.themuse.com/jobs/keeptruckin/software-engineer-android-003f51"
+    },
+    {
+      "id": 16893738,
+      "title": "ServiceNow System Administrator",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Buenos Aires, Argentina"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2024-10-30T00:44:23Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/servicenow-system-administrator-c27305"
     },
     {
       "id": 16890936,

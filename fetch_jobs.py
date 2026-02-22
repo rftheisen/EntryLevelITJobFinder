@@ -1,6 +1,10 @@
 """
-Fetches entry-level IT jobs from The Muse API (no API key required).
+Fetches IT and cybersecurity jobs from The Muse API (no API key required).
 Writes results to jobs.json for the static GitHub Pages site to consume.
+
+Fetches both Entry Level and Mid Level so that cybersecurity roles (which are
+almost never tagged Entry Level on The Muse) are also captured.
+Title allowlist + blocklist handle all relevance filtering.
 """
 
 import json
@@ -9,16 +13,23 @@ from datetime import datetime, timezone
 
 BASE_URL = "https://www.themuse.com/api/public/jobs"
 
-# Muse categories most likely to contain IT roles
+# Muse categories most likely to contain IT / cybersecurity roles.
+# "Software Engineering" is the only Muse category with significant volume; the others
+# are kept in case The Muse re-populates them in future runs.
 CATEGORIES = [
-    "IT",
     "Software Engineering",
+    "IT",
     "Data Science",
     "Data & Analytics",
 ]
 
-LEVEL = "Entry Level"
-PAGES_PER_CATEGORY = 5   # 20 results per page → up to 100 per category (before filtering)
+# Fetch both experience levels per category:
+#  • "Entry Level" — general IT / dev roles
+#  • "Mid Level"   — cybersecurity roles are almost never tagged Entry Level on The Muse;
+#                    Mid Level surfaces them without including Sr./Principal/VP noise
+LEVELS = ["Entry Level", "Mid Level"]
+
+PAGES_PER_LEVEL = 5   # 20 results per page → up to 100 per category×level (before filtering)
 
 # ── Title allowlist ───────────────────────────────────────────────────────────
 # A job title must contain at least one of these to be included.
@@ -36,11 +47,34 @@ IT_TITLE_KEYWORDS = [
     "cloud engineer", "cloud architect", "cloud admin",
     "devops", "site reliability", "linux admin",
     "active directory", "virtualization",
-    # Security
+    # Security — broad role titles
     "security engineer", "security analyst", "security architect",
-    "cybersecurity", "cyber security", "soc analyst",
-    "information security", "infosec", "penetration tester",
-    "vulnerability analyst", "security operations",
+    "security specialist", "security administrator", "security consultant",
+    "security researcher", "security technician", "security operations",
+    "cybersecurity", "cyber security", "cyber analyst", "cyber threat",
+    "information security", "infosec",
+    "junior security", "associate security", "entry level security",
+    # SOC / operations
+    "soc analyst", "soc engineer", "soc technician",
+    "security operations center", "incident responder", "incident response",
+    "threat analyst", "threat intelligence", "threat hunter", "threat hunting",
+    "blue team", "red team", "purple team",
+    # Pen testing / offensive
+    "penetration tester", "penetration testing", "pen tester", "pentester", "pentest",
+    "ethical hacker", "bug bounty",
+    # Vulnerability & risk
+    "vulnerability analyst", "vulnerability researcher", "vulnerability management",
+    "cyber risk", "it risk analyst", "grc analyst", "governance risk",
+    # Forensics
+    "digital forensics", "forensics analyst", "cyber forensics", "dfir",
+    "malware analyst", "reverse engineer",
+    # Identity & access / cloud security
+    "identity and access", "iam engineer", "iam analyst",
+    "cloud security", "network security", "endpoint security",
+    "application security", "appsec",
+    # Compliance & governance (IT-specific phrasing)
+    "security compliance", "it compliance", "cyber compliance",
+    "siem", "soar",
     # Development (require "software", "web", "junior", or specific lang/stack)
     "software engineer", "software developer",
     "web developer", "web engineer",
@@ -134,70 +168,71 @@ def fetch_jobs():
     dropped = 0
 
     for category in CATEGORIES:
-        for page in range(1, PAGES_PER_CATEGORY + 1):
-            try:
-                resp = requests.get(
-                    BASE_URL,
-                    params={
-                        "category": category,
-                        "level": LEVEL,
-                        "page": page,
-                        "descending": "true",
-                    },
-                    timeout=15,
-                )
-                resp.raise_for_status()
-                data = resp.json()
-                results = data.get("results", [])
+        for level in LEVELS:
+            for page in range(1, PAGES_PER_LEVEL + 1):
+                try:
+                    resp = requests.get(
+                        BASE_URL,
+                        params={
+                            "category": category,
+                            "level": level,
+                            "page": page,
+                            "descending": "true",
+                        },
+                        timeout=15,
+                    )
+                    resp.raise_for_status()
+                    data = resp.json()
+                    results = data.get("results", [])
 
-                if not results:
-                    break   # no more pages for this category
+                    if not results:
+                        break   # no more pages for this category+level
 
-                kept = 0
-                for job in results:
-                    job_id = job.get("id")
-                    if job_id in seen_ids:
-                        continue
-                    seen_ids.add(job_id)
+                    kept = 0
+                    for job in results:
+                        job_id = job.get("id")
+                        if job_id in seen_ids:
+                            continue
+                        seen_ids.add(job_id)
 
-                    title = job.get("name", "")
+                        title = job.get("name", "")
 
-                    # Skip non-IT roles
-                    if not is_it_job(title):
-                        dropped += 1
-                        continue
+                        # Skip non-IT roles
+                        if not is_it_job(title):
+                            dropped += 1
+                            continue
 
-                    kept += 1
-                    all_jobs.append({
-                        "id": job_id,
-                        "title": title,
-                        "company": job.get("company", {}).get("name", ""),
-                        "company_logo": (job.get("company", {}).get("refs", {}) or {}).get("logo_image", ""),
-                        "locations": [
-                            loc.get("name", "")
-                            for loc in job.get("locations", [])
-                        ],
-                        "remote": any(
-                            "remote" in loc.get("name", "").lower()
-                            for loc in job.get("locations", [])
-                        ),
-                        "categories": [
-                            cat.get("name", "")
-                            for cat in job.get("categories", [])
-                        ],
-                        "levels": [
-                            lvl.get("short_name", "")
-                            for lvl in job.get("levels", [])
-                        ],
-                        "published": job.get("publication_date", ""),
-                        "url": job.get("refs", {}).get("landing_page", ""),
-                    })
+                        kept += 1
+                        all_jobs.append({
+                            "id": job_id,
+                            "title": title,
+                            "company": job.get("company", {}).get("name", ""),
+                            "company_logo": (job.get("company", {}).get("refs", {}) or {}).get("logo_image", ""),
+                            "locations": [
+                                loc.get("name", "")
+                                for loc in job.get("locations", [])
+                            ],
+                            "remote": any(
+                                "remote" in loc.get("name", "").lower()
+                                for loc in job.get("locations", [])
+                            ),
+                            "categories": [
+                                cat.get("name", "")
+                                for cat in job.get("categories", [])
+                            ],
+                            "levels": [
+                                lvl.get("short_name", "")
+                                for lvl in job.get("levels", [])
+                            ],
+                            "published": job.get("publication_date", ""),
+                            "url": job.get("refs", {}).get("landing_page", ""),
+                        })
 
-                print(f"  [{category}] page {page}: {kept} kept / {len(results) - kept} filtered")
+                    print(f"  [{category} / {level}] page {page}: {kept} kept / {len(results) - kept} filtered")
 
-            except Exception as e:
-                print(f"  [{category}] page {page}: ERROR — {e}")
-                break
+                except Exception as e:
+                    print(f"  [{category} / {level}] page {page}: ERROR — {e}")
+                    break
 
     # Sort by published date descending
     all_jobs.sort(key=lambda j: j.get("published", ""), reverse=True)
