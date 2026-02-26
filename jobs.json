@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-25T07:02:21Z",
-  "count": 40,
+  "updated": "2026-02-26T07:00:38Z",
+  "count": 38,
   "jobs": [
     {
       "id": 19373449,
@@ -91,24 +91,6 @@
       ],
       "published": "2026-01-07T19:57:19Z",
       "url": "https://www.themuse.com/jobs/tiktok/site-reliability-engineer-recommendation-infrastructure-usds-30e971"
-    },
-    {
-      "id": 13940540,
-      "title": "Junior Solutions Engineer - SMB, Ads",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-11-27T20:20:21Z",
-      "url": "https://www.themuse.com/jobs/tiktok/junior-solutions-engineer-smb-ads"
     },
     {
       "id": 19347624,
@@ -290,24 +272,6 @@
       ],
       "published": "2025-04-15T12:28:12Z",
       "url": "https://www.themuse.com/jobs/epamsystems/junior-salesforce-developer-650426"
-    },
-    {
-      "id": 16890475,
-      "title": "Infrastructure Engineer",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Bucharest, Romania"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-04-15T12:28:12Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/infrastructure-engineer-4278e8"
     },
     {
       "id": 18491597,
