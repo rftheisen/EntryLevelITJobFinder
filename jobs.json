@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-27T06:55:02Z",
-  "count": 38,
+  "updated": "2026-02-28T06:38:48Z",
+  "count": 39,
   "jobs": [
     {
       "id": 19373449,
@@ -272,6 +272,24 @@
       ],
       "published": "2025-04-15T12:28:12Z",
       "url": "https://www.themuse.com/jobs/epamsystems/junior-salesforce-developer-650426"
+    },
+    {
+      "id": 16890475,
+      "title": "Infrastructure Engineer",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Bucharest, Romania"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-04-15T12:28:12Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/infrastructure-engineer-4278e8"
     },
     {
       "id": 18491597,
