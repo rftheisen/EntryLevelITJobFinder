@@ -1,7 +1,25 @@
 {
-  "updated": "2026-02-28T06:38:48Z",
+  "updated": "2026-03-01T06:46:34Z",
   "count": 39,
   "jobs": [
+    {
+      "id": 11761281,
+      "title": "Junior Software Engineer - Infrastructure, TikTok Search Engine",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "entry"
+      ],
+      "published": "2026-02-28T19:55:49Z",
+      "url": "https://www.themuse.com/jobs/tiktok/junior-software-engineer-infrastructure-tiktok-search-engine-367ad9"
+    },
     {
       "id": 19373449,
       "title": "Software Engineer (Leadership) - Product",
@@ -254,24 +272,6 @@
       ],
       "published": "2025-04-15T12:28:25Z",
       "url": "https://www.themuse.com/jobs/epamsystems/junior-android-developer-42e443"
-    },
-    {
-      "id": 18391749,
-      "title": "Junior Salesforce Developer",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Ozork\u00f3w, Poland"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "entry"
-      ],
-      "published": "2025-04-15T12:28:12Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/junior-salesforce-developer-650426"
     },
     {
       "id": 16890475,
