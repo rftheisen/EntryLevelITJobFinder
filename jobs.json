@@ -1,7 +1,25 @@
 {
-  "updated": "2026-03-08T06:42:33Z",
-  "count": 39,
+  "updated": "2026-03-09T07:02:19Z",
+  "count": 40,
   "jobs": [
+    {
+      "id": 18138341,
+      "title": "AI Software Engineer",
+      "company": "Zoom",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-03-08T19:04:39Z",
+      "url": "https://www.themuse.com/jobs/zoom/ai-software-engineer-d48369"
+    },
     {
       "id": 11761281,
       "title": "Junior Software Engineer - Infrastructure, TikTok Search Engine",
