@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-11T06:54:27Z",
-  "count": 39,
+  "updated": "2026-03-12T06:56:13Z",
+  "count": 38,
   "jobs": [
     {
       "id": 11761281,
@@ -272,24 +272,6 @@
       ],
       "published": "2025-04-15T12:28:25Z",
       "url": "https://www.themuse.com/jobs/epamsystems/junior-android-developer-42e443"
-    },
-    {
-      "id": 16890475,
-      "title": "Infrastructure Engineer",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Bucharest, Romania"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-04-15T12:28:12Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/infrastructure-engineer-4278e8"
     },
     {
       "id": 18491597,
