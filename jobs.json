@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-17T07:04:57Z",
-  "count": 38,
+  "updated": "2026-03-18T07:02:25Z",
+  "count": 37,
   "jobs": [
     {
       "id": 11761281,
@@ -650,24 +650,6 @@
       ],
       "published": "2024-11-01T23:51:32Z",
       "url": "https://www.themuse.com/jobs/keeptruckin/software-engineer-android-003f51"
-    },
-    {
-      "id": 16893738,
-      "title": "ServiceNow System Administrator",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Buenos Aires, Argentina"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2024-10-30T00:44:23Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/servicenow-system-administrator-c27305"
     },
     {
       "id": 16890936,
