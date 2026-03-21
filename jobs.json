@@ -1,14 +1,15 @@
 {
-  "updated": "2026-03-20T06:56:08Z",
+  "updated": "2026-03-21T06:43:09Z",
   "count": 4,
   "jobs": [
     {
-      "id": 19954284,
-      "title": "Software Developer (Java Back-End) - IBM Data Intelligence",
-      "company": "IBM",
+      "id": 20265064,
+      "title": "Big Data Software Engineer - Python",
+      "company": "JPMorgan Chase",
       "company_logo": "",
       "locations": [
-        "Prague, Czech Republic"
+        "Bah\u00eda Blanca, Argentina",
+        "Buenos Aires, Argentina"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +18,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-01-11T18:48:06Z",
-      "url": "https://www.themuse.com/jobs/ibm/software-developer-java-backend-ibm-data-intelligence-9584b5"
+      "published": "2025-09-17T19:12:55Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/big-data-software-engineer-python"
     },
     {
       "id": 20211500,
@@ -39,8 +40,8 @@
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-696484"
     },
     {
-      "id": 20148944,
-      "title": "Software Engineer III - iOS",
+      "id": 20183779,
+      "title": "Software Engineer III",
       "company": "Walmart",
       "company_logo": "",
       "locations": [
@@ -53,8 +54,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2025-09-05T20:38:31Z",
-      "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-ios-fe95dd"
+      "published": "2025-09-09T20:33:24Z",
+      "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
     },
     {
       "id": 18021225,
