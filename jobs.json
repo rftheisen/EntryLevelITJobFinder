@@ -1,15 +1,14 @@
 {
-  "updated": "2026-03-25T07:02:46Z",
+  "updated": "2026-03-26T07:08:56Z",
   "count": 4,
   "jobs": [
     {
-      "id": 20265064,
-      "title": "Big Data Software Engineer - Python",
-      "company": "JPMorgan Chase",
+      "id": 19954284,
+      "title": "Software Developer (Java Back-End) - IBM Data Intelligence",
+      "company": "IBM",
       "company_logo": "",
       "locations": [
-        "Bah\u00eda Blanca, Argentina",
-        "Buenos Aires, Argentina"
+        "Prague, Czech Republic"
       ],
       "remote": false,
       "categories": [
@@ -18,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2025-09-17T19:12:55Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/big-data-software-engineer-python"
+      "published": "2026-01-11T18:48:06Z",
+      "url": "https://www.themuse.com/jobs/ibm/software-developer-java-backend-ibm-data-intelligence-9584b5"
     },
     {
       "id": 20211500,
