@@ -1,14 +1,14 @@
 {
-  "updated": "2026-03-27T07:08:03Z",
+  "updated": "2026-03-28T06:59:24Z",
   "count": 4,
   "jobs": [
     {
-      "id": 19954284,
-      "title": "Software Developer (Java Back-End) - IBM Data Intelligence",
-      "company": "IBM",
+      "id": 15401275,
+      "title": "Machine Learning engineer - TikTok Search",
+      "company": "TikTok",
       "company_logo": "",
       "locations": [
-        "Prague, Czech Republic"
+        "Singapore"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-01-11T18:48:06Z",
-      "url": "https://www.themuse.com/jobs/ibm/software-developer-java-backend-ibm-data-intelligence-9584b5"
+      "published": "2026-03-27T20:51:05Z",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
     },
     {
       "id": 20211500,
