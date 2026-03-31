@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-30T07:27:38Z",
-  "count": 4,
+  "updated": "2026-03-31T07:15:05Z",
+  "count": 6,
   "jobs": [
     {
       "id": 15401275,
@@ -19,6 +19,43 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
+    },
+    {
+      "id": 21263007,
+      "title": "Help Desk Engineer",
+      "company": "Leidos",
+      "company_logo": "",
+      "locations": [
+        "Canberra, Australia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-03-19T18:50:53Z",
+      "url": "https://www.themuse.com/jobs/leidos/help-desk-engineer-2319ce"
+    },
+    {
+      "id": 20265064,
+      "title": "Big Data Software Engineer - Python",
+      "company": "JPMorgan Chase",
+      "company_logo": "",
+      "locations": [
+        "Bah\u00eda Blanca, Argentina",
+        "Buenos Aires, Argentina"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-09-17T19:12:55Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/big-data-software-engineer-python"
     },
     {
       "id": 20211500,
