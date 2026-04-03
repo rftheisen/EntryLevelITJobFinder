@@ -1,7 +1,62 @@
 {
-  "updated": "2026-04-02T07:13:12Z",
-  "count": 6,
+  "updated": "2026-04-03T07:09:29Z",
+  "count": 8,
   "jobs": [
+    {
+      "id": 21353974,
+      "title": "Software Engineer, Search Infrastructure - Slack",
+      "company": "Salesforce",
+      "company_logo": "",
+      "locations": [
+        "Atlanta, GA",
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-02T21:16:41Z",
+      "url": "https://www.themuse.com/jobs/salesforce/software-engineer-search-infrastructure-slack"
+    },
+    {
+      "id": 21413472,
+      "title": "Reliability Test Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-02T20:28:19Z",
+      "url": "https://www.themuse.com/jobs/apple/reliability-test-engineer-b5a298"
+    },
+    {
+      "id": 21414144,
+      "title": "Full-Stack Software Engineer - Cloud Capacity Management",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-02T20:28:17Z",
+      "url": "https://www.themuse.com/jobs/apple/fullstack-software-engineer-cloud-capacity-management-5246a5"
+    },
     {
       "id": 15401275,
       "title": "Machine Learning engineer - TikTok Search",
@@ -19,24 +74,6 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
-    },
-    {
-      "id": 21263007,
-      "title": "Help Desk Engineer",
-      "company": "Leidos",
-      "company_logo": "",
-      "locations": [
-        "Canberra, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-03-19T18:50:53Z",
-      "url": "https://www.themuse.com/jobs/leidos/help-desk-engineer-2319ce"
     },
     {
       "id": 20265064,
