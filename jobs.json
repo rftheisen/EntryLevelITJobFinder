@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-05T07:07:16Z",
-  "count": 6,
+  "updated": "2026-04-06T07:43:27Z",
+  "count": 7,
   "jobs": [
     {
-      "id": 21413387,
-      "title": "Software Developer - Apple Pay, Wireless Technologies & Ecosystems",
+      "id": 21412655,
+      "title": "Software Engineer App Store Client",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Seattle, WA"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-04T19:26:19Z",
-      "url": "https://www.themuse.com/jobs/apple/software-developer-apple-pay-wireless-technologies-ecosystems"
+      "published": "2026-04-05T19:43:06Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-app-store-client"
+    },
+    {
+      "id": 21470695,
+      "title": "Software Engineer - Core OS Telemetry, CoreOS",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-05T19:41:56Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-core-os-telemetry-coreos"
     },
     {
       "id": 15401275,
