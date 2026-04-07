@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-06T07:43:27Z",
-  "count": 7,
+  "updated": "2026-04-07T07:17:32Z",
+  "count": 8,
   "jobs": [
     {
-      "id": 21412655,
-      "title": "Software Engineer App Store Client",
-      "company": "Apple",
+      "id": 21464325,
+      "title": "(DoD SkillBridge) Industrial Security Analyst",
+      "company": "Northrop Grumman",
       "company_logo": "",
       "locations": [
-        "Seattle, WA"
+        "Aurora, CO"
       ],
       "remote": false,
       "categories": [
@@ -17,12 +17,12 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-05T19:43:06Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-app-store-client"
+      "published": "2026-04-06T19:38:34Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/dod-skillbridge-industrial-security-analyst"
     },
     {
-      "id": 21470695,
-      "title": "Software Engineer - Core OS Telemetry, CoreOS",
+      "id": 21458136,
+      "title": "Software Engineer - UI Developer (Web & Native)",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -35,8 +35,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-05T19:41:56Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-core-os-telemetry-coreos"
+      "published": "2026-04-06T19:08:04Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-ui-developer-web-native"
+    },
+    {
+      "id": 21498468,
+      "title": "APPLICATION SUPPORT ENGINEER",
+      "company": "Wipro",
+      "company_logo": "",
+      "locations": [
+        "Pune, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-06T18:39:46Z",
+      "url": "https://www.themuse.com/jobs/wipro/application-support-engineer-a746be"
     },
     {
       "id": 15401275,
