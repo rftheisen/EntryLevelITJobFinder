@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-08T07:20:13Z",
-  "count": 9,
+  "updated": "2026-04-09T07:22:48Z",
+  "count": 11,
   "jobs": [
     {
-      "id": 21410728,
-      "title": "Photos Backend Systems Engineer",
+      "id": 21413696,
+      "title": "Software Engineer - Creator Studio",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Cary, NC"
       ],
       "remote": false,
       "categories": [
@@ -17,12 +17,12 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-07T20:08:26Z",
-      "url": "https://www.themuse.com/jobs/apple/photos-backend-systems-engineer-900f55"
+      "published": "2026-04-09T00:01:36Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-218852"
     },
     {
-      "id": 21410660,
-      "title": "Virtualization Software Development Engineer in Test (SDET), Core OS",
+      "id": 21519729,
+      "title": "Software Engineer in Test, System Experience",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -35,8 +35,44 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-07T20:08:22Z",
-      "url": "https://www.themuse.com/jobs/apple/virtualization-software-development-engineer-in-test-sdet-core-os"
+      "published": "2026-04-09T00:00:24Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-in-test-system-experience-63e506"
+    },
+    {
+      "id": 21525106,
+      "title": "Software Engineer: SoC System Stress Validation",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-09T00:00:22Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-soc-system-stress-validation-098512"
+    },
+    {
+      "id": 21537195,
+      "title": "Test Engineer III",
+      "company": "Jabil",
+      "company_logo": "",
+      "locations": [
+        "Guadalajara, Mexico"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-08T23:56:55Z",
+      "url": "https://www.themuse.com/jobs/jabil/test-engineer-iii-615e57"
     },
     {
       "id": 21122456,
