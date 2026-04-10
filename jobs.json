@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-09T07:22:48Z",
-  "count": 11,
+  "updated": "2026-04-10T07:28:08Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21413696,
-      "title": "Software Engineer - Creator Studio",
-      "company": "Apple",
+      "id": 21543586,
+      "title": "Software Engineer - Level 2",
+      "company": "Northrop Grumman",
       "company_logo": "",
       "locations": [
-        "Cary, NC"
+        "Huntsville, AL"
       ],
       "remote": false,
       "categories": [
@@ -17,44 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-09T00:01:36Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-218852"
-    },
-    {
-      "id": 21519729,
-      "title": "Software Engineer in Test, System Experience",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-09T00:00:24Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-in-test-system-experience-63e506"
-    },
-    {
-      "id": 21525106,
-      "title": "Software Engineer: SoC System Stress Validation",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-09T00:00:22Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-soc-system-stress-validation-098512"
+      "published": "2026-04-09T20:23:25Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/software-engineer-level-2-c9e3a5"
     },
     {
       "id": 21537195,
