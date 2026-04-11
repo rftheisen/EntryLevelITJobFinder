@@ -1,14 +1,32 @@
 {
-  "updated": "2026-04-10T07:28:08Z",
-  "count": 9,
+  "updated": "2026-04-11T07:01:04Z",
+  "count": 11,
   "jobs": [
     {
-      "id": 21543586,
-      "title": "Software Engineer - Level 2",
-      "company": "Northrop Grumman",
+      "id": 21547114,
+      "title": "Cyber Software Engineer",
+      "company": "Leidos",
       "company_logo": "",
       "locations": [
-        "Huntsville, AL"
+        "Flexible / Remote"
+      ],
+      "remote": true,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-10T23:49:22Z",
+      "url": "https://www.themuse.com/jobs/leidos/cyber-software-engineer-1f80c8"
+    },
+    {
+      "id": 21406085,
+      "title": "Intellimatch/SQL Developer_ Director_ Software Engineering",
+      "company": "Morgan Stanley",
+      "company_logo": "",
+      "locations": [
+        "Mumbai, India"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-09T20:23:25Z",
-      "url": "https://www.themuse.com/jobs/northropgrumman/software-engineer-level-2-c9e3a5"
+      "published": "2026-04-10T18:36:58Z",
+      "url": "https://www.themuse.com/jobs/morganstanley/intellimatchsql-developer-director-software-engineering"
     },
     {
       "id": 21537195,
@@ -92,6 +110,24 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
+    },
+    {
+      "id": 15234383,
+      "title": "Software Engineer- LiveStreaming Player (C++)",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Sydney, Australia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-02-18T20:01:25Z",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20265064,
