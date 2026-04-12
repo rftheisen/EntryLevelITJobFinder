@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-11T07:01:04Z",
+  "updated": "2026-04-12T07:14:28Z",
   "count": 11,
   "jobs": [
+    {
+      "id": 21560419,
+      "title": "Software Test Automation Engineer, Vision Products Software",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-11T19:42:36Z",
+      "url": "https://www.themuse.com/jobs/apple/software-test-automation-engineer-vision-products-software-2e40d7"
+    },
     {
       "id": 21547114,
       "title": "Cyber Software Engineer",
@@ -55,25 +73,6 @@
       ],
       "published": "2026-04-08T23:56:55Z",
       "url": "https://www.themuse.com/jobs/jabil/test-engineer-iii-615e57"
-    },
-    {
-      "id": 21122456,
-      "title": "Staff Software Engineer",
-      "company": "Equinix, Inc",
-      "company_logo": "",
-      "locations": [
-        "Bangalore, India",
-        "Flexible / Remote"
-      ],
-      "remote": true,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-07T18:47:03Z",
-      "url": "https://www.themuse.com/jobs/equinixinc/staff-software-engineer-19ca54"
     },
     {
       "id": 21498468,
