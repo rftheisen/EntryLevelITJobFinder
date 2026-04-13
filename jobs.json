@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-12T07:14:28Z",
+  "updated": "2026-04-13T08:03:31Z",
   "count": 11,
   "jobs": [
     {
-      "id": 21560419,
-      "title": "Software Test Automation Engineer, Vision Products Software",
+      "id": 21560496,
+      "title": "Software QA Engineer, Security",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Emeryville, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,44 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-11T19:42:36Z",
-      "url": "https://www.themuse.com/jobs/apple/software-test-automation-engineer-vision-products-software-2e40d7"
+      "published": "2026-04-12T19:49:33Z",
+      "url": "https://www.themuse.com/jobs/apple/software-qa-engineer-security-38660d"
+    },
+    {
+      "id": 21558263,
+      "title": "iOS Software Engineer, Health Research",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-12T19:48:13Z",
+      "url": "https://www.themuse.com/jobs/apple/ios-software-engineer-health-research-30715f"
+    },
+    {
+      "id": 21557880,
+      "title": "Photos Imaging Software Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-12T19:48:12Z",
+      "url": "https://www.themuse.com/jobs/apple/photos-imaging-software-engineer-00a9c7"
     },
     {
       "id": 21547114,
@@ -39,24 +75,6 @@
       "url": "https://www.themuse.com/jobs/leidos/cyber-software-engineer-1f80c8"
     },
     {
-      "id": 21406085,
-      "title": "Intellimatch/SQL Developer_ Director_ Software Engineering",
-      "company": "Morgan Stanley",
-      "company_logo": "",
-      "locations": [
-        "Mumbai, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-10T18:36:58Z",
-      "url": "https://www.themuse.com/jobs/morganstanley/intellimatchsql-developer-director-software-engineering"
-    },
-    {
       "id": 21537195,
       "title": "Test Engineer III",
       "company": "Jabil",
@@ -73,24 +91,6 @@
       ],
       "published": "2026-04-08T23:56:55Z",
       "url": "https://www.themuse.com/jobs/jabil/test-engineer-iii-615e57"
-    },
-    {
-      "id": 21498468,
-      "title": "APPLICATION SUPPORT ENGINEER",
-      "company": "Wipro",
-      "company_logo": "",
-      "locations": [
-        "Pune, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-06T18:39:46Z",
-      "url": "https://www.themuse.com/jobs/wipro/application-support-engineer-a746be"
     },
     {
       "id": 15401275,
