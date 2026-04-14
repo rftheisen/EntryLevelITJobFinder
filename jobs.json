@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-13T08:03:31Z",
-  "count": 11,
+  "updated": "2026-04-14T07:46:07Z",
+  "count": 12,
   "jobs": [
     {
-      "id": 21560496,
-      "title": "Software QA Engineer, Security",
+      "id": 20860851,
+      "title": "Systems Engineer - Level 2",
+      "company": "Northrop Grumman",
+      "company_logo": "",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-13T20:39:51Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/systems-engineer-level-2-c64575"
+    },
+    {
+      "id": 21464360,
+      "title": "Systems Engineer",
+      "company": "Northrop Grumman",
+      "company_logo": "",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-13T20:39:22Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/systems-engineer-8aa09d"
+    },
+    {
+      "id": 21562168,
+      "title": "Software Engineer in Test, System Experience",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,16 +53,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-12T19:49:33Z",
-      "url": "https://www.themuse.com/jobs/apple/software-qa-engineer-security-38660d"
+      "published": "2026-04-13T20:06:25Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-in-test-system-experience-41e9fe"
     },
     {
-      "id": 21558263,
-      "title": "iOS Software Engineer, Health Research",
+      "id": 21559360,
+      "title": "System Software Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Diego, CA"
+        "Seattle, WA"
       ],
       "remote": false,
       "categories": [
@@ -35,16 +71,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-12T19:48:13Z",
-      "url": "https://www.themuse.com/jobs/apple/ios-software-engineer-health-research-30715f"
+      "published": "2026-04-13T20:03:39Z",
+      "url": "https://www.themuse.com/jobs/apple/system-software-engineer-5a1e67"
     },
     {
-      "id": 21557880,
-      "title": "Photos Imaging Software Engineer",
+      "id": 21557967,
+      "title": "Software Engineer, Creativity Apps",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Cary, NC"
       ],
       "remote": false,
       "categories": [
@@ -53,8 +89,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-12T19:48:12Z",
-      "url": "https://www.themuse.com/jobs/apple/photos-imaging-software-engineer-00a9c7"
+      "published": "2026-04-13T20:03:03Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-creativity-apps-605492"
     },
     {
       "id": 21547114,
@@ -109,24 +145,6 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20265064,
