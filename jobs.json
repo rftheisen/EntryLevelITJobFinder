@@ -1,32 +1,14 @@
 {
-  "updated": "2026-04-15T07:46:38Z",
-  "count": 10,
+  "updated": "2026-04-16T07:46:31Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21415255,
-      "title": "Software Quality Assurance Engineer - 17885*",
-      "company": "Northrop Grumman",
-      "company_logo": "",
-      "locations": [
-        "Huntsville, AL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-14T20:12:24Z",
-      "url": "https://www.themuse.com/jobs/northropgrumman/software-quality-assurance-engineer-17885-71988f"
-    },
-    {
-      "id": 21561040,
-      "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
+      "id": 21566904,
+      "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Diego, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-14T19:35:17Z",
-      "url": "https://www.themuse.com/jobs/apple/tools-automation-engineer-wireless-technologies-ecosystems-3325df"
+      "published": "2026-04-15T20:01:34Z",
+      "url": "https://www.themuse.com/jobs/apple/machine-learning-software-engineer-for-location-and-spatial-awareness-sensing-connectivity"
     },
     {
       "id": 21547114,
