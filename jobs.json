@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-16T07:46:31Z",
+  "updated": "2026-04-17T07:46:39Z",
   "count": 9,
   "jobs": [
     {
-      "id": 21566904,
-      "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
+      "id": 21561960,
+      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-16T19:40:13Z",
+      "url": "https://www.themuse.com/jobs/apple/site-reliability-engineer-edge-services-infrastructure-services-ab8143"
+    },
+    {
+      "id": 21558035,
+      "title": "Photos Backend Systems Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,26 +35,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-15T20:01:34Z",
-      "url": "https://www.themuse.com/jobs/apple/machine-learning-software-engineer-for-location-and-spatial-awareness-sensing-connectivity"
+      "published": "2026-04-16T19:38:40Z",
+      "url": "https://www.themuse.com/jobs/apple/photos-backend-systems-engineer-d46c39"
     },
     {
-      "id": 21547114,
-      "title": "Cyber Software Engineer",
-      "company": "Leidos",
+      "id": 21568875,
+      "title": "Phone/FaceTime Experience Software Engineer",
+      "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Flexible / Remote"
+        "Emeryville, CA"
       ],
-      "remote": true,
+      "remote": false,
       "categories": [
         "Software Engineering"
       ],
       "levels": [
         "mid"
       ],
-      "published": "2026-04-10T23:49:22Z",
-      "url": "https://www.themuse.com/jobs/leidos/cyber-software-engineer-1f80c8"
+      "published": "2026-04-16T19:38:28Z",
+      "url": "https://www.themuse.com/jobs/apple/phonefacetime-experience-software-engineer-d80308"
     },
     {
       "id": 21537195,
@@ -73,24 +91,6 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20265064,
