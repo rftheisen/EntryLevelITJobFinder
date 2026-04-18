@@ -1,61 +1,7 @@
 {
-  "updated": "2026-04-17T07:46:39Z",
-  "count": 9,
+  "updated": "2026-04-18T07:08:14Z",
+  "count": 6,
   "jobs": [
-    {
-      "id": 21561960,
-      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-16T19:40:13Z",
-      "url": "https://www.themuse.com/jobs/apple/site-reliability-engineer-edge-services-infrastructure-services-ab8143"
-    },
-    {
-      "id": 21558035,
-      "title": "Photos Backend Systems Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-16T19:38:40Z",
-      "url": "https://www.themuse.com/jobs/apple/photos-backend-systems-engineer-d46c39"
-    },
-    {
-      "id": 21568875,
-      "title": "Phone/FaceTime Experience Software Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-16T19:38:28Z",
-      "url": "https://www.themuse.com/jobs/apple/phonefacetime-experience-software-engineer-d80308"
-    },
     {
       "id": 21537195,
       "title": "Test Engineer III",
