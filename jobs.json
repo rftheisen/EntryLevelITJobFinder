@@ -1,25 +1,7 @@
 {
-  "updated": "2026-04-19T07:19:48Z",
-  "count": 8,
+  "updated": "2026-04-20T08:07:40Z",
+  "count": 6,
   "jobs": [
-    {
-      "id": 21380835,
-      "title": "Industrial Security Analyst - Level 2",
-      "company": "Northrop Grumman",
-      "company_logo": "",
-      "locations": [
-        "Redondo Beach, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-18T20:40:56Z",
-      "url": "https://www.themuse.com/jobs/northropgrumman/industrial-security-analyst-level-2-8029b7"
-    },
     {
       "id": 21537195,
       "title": "Test Engineer III",
@@ -55,24 +37,6 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20265064,
