@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-20T08:07:40Z",
-  "count": 6,
+  "updated": "2026-04-21T07:50:26Z",
+  "count": 8,
   "jobs": [
+    {
+      "id": 21561216,
+      "title": "Technical Operations & Site Reliability Engineer, Customer Systems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-20T19:55:09Z",
+      "url": "https://www.themuse.com/jobs/apple/technical-operations-site-reliability-engineer-customer-systems-8afa94"
+    },
+    {
+      "id": 21559528,
+      "title": "Software Engineer, Applied Networking Security",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-20T19:52:17Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-applied-networking-security-ca605f"
+    },
     {
       "id": 21537195,
       "title": "Test Engineer III",
