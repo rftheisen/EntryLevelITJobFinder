@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-21T07:50:26Z",
-  "count": 8,
+  "updated": "2026-04-22T07:47:09Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21561216,
-      "title": "Technical Operations & Site Reliability Engineer, Customer Systems",
+      "id": 21561007,
+      "title": "Applied Sensing & Health Software Engineer, Sensing & Connectivity",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-21T20:01:52Z",
+      "url": "https://www.themuse.com/jobs/apple/applied-sensing-health-software-engineer-sensing-connectivity-4a54c1"
+    },
+    {
+      "id": 21561619,
+      "title": "Software Engineer (Edge Services), Infrastructure Services",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,16 +35,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-20T19:55:09Z",
-      "url": "https://www.themuse.com/jobs/apple/technical-operations-site-reliability-engineer-customer-systems-8afa94"
+      "published": "2026-04-21T20:01:39Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-edge-services-infrastructure-services-7e4ec8"
     },
     {
-      "id": 21559528,
-      "title": "Software Engineer, Applied Networking Security",
+      "id": 21561277,
+      "title": "Software Engineer - OS Services, Core OS",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Diego, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +53,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-20T19:52:17Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-applied-networking-security-ca605f"
+      "published": "2026-04-21T20:01:38Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-os-services-core-os-f7f9cd"
     },
     {
       "id": 21537195,
