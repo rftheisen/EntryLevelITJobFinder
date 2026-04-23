@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-22T07:47:09Z",
-  "count": 9,
+  "updated": "2026-04-23T07:53:12Z",
+  "count": 13,
   "jobs": [
     {
-      "id": 21561007,
-      "title": "Applied Sensing & Health Software Engineer, Sensing & Connectivity",
+      "id": 21222546,
+      "title": "Software Engineer Level 2",
+      "company": "Northrop Grumman",
+      "company_logo": "",
+      "locations": [
+        "Aurora, CO"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-22T20:23:36Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/software-engineer-level-2-6ad96d"
+    },
+    {
+      "id": 21611497,
+      "title": "Wireless Module Test Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-22T19:50:26Z",
+      "url": "https://www.themuse.com/jobs/apple/wireless-module-test-engineer-9bf93b"
+    },
+    {
+      "id": 21558168,
+      "title": "Embedded Software Engineer, Audio & Media Technologies",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,16 +53,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-21T20:01:52Z",
-      "url": "https://www.themuse.com/jobs/apple/applied-sensing-health-software-engineer-sensing-connectivity-4a54c1"
+      "published": "2026-04-22T19:48:59Z",
+      "url": "https://www.themuse.com/jobs/apple/embedded-software-engineer-audio-media-technologies-e2d052"
     },
     {
-      "id": 21561619,
-      "title": "Software Engineer (Edge Services), Infrastructure Services",
+      "id": 21592738,
+      "title": "Silicon Validation Software Engineer - High Speed IO Validation",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Sunnyvale, CA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -35,16 +71,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-21T20:01:39Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-edge-services-infrastructure-services-7e4ec8"
+      "published": "2026-04-22T19:48:44Z",
+      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-high-speed-io-validation-9ca8a3"
     },
     {
-      "id": 21561277,
-      "title": "Software Engineer - OS Services, Core OS",
-      "company": "Apple",
+      "id": 21610707,
+      "title": "Software Engineer II- Front end/DevOps",
+      "company": "JPMorgan Chase",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Columbus, OH"
       ],
       "remote": false,
       "categories": [
@@ -53,8 +89,44 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-21T20:01:38Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-os-services-core-os-f7f9cd"
+      "published": "2026-04-22T19:25:18Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-ii-front-enddevops"
+    },
+    {
+      "id": 21610476,
+      "title": "Software Engineer III, Currencies & Emerging Markets",
+      "company": "JPMorgan Chase",
+      "company_logo": "",
+      "locations": [
+        "Singapore"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-22T19:25:15Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-currencies-emerging-markets"
+    },
+    {
+      "id": 21609284,
+      "title": "Software Engineer- Testing & Automation Quality Engineer",
+      "company": "PNC",
+      "company_logo": "",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-22T18:45:44Z",
+      "url": "https://www.themuse.com/jobs/pnc/software-engineer-testing-automation-quality-engineer"
     },
     {
       "id": 21537195,
