@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-23T07:53:12Z",
-  "count": 13,
+  "updated": "2026-04-24T08:03:31Z",
+  "count": 10,
   "jobs": [
     {
-      "id": 21222546,
-      "title": "Software Engineer Level 2",
+      "id": 21272055,
+      "title": "Software Engineer - Simulation (Oklahoma City or Melbourne FL)",
       "company": "Northrop Grumman",
       "company_logo": "",
       "locations": [
-        "Aurora, CO"
+        "Oklahoma City, OK"
       ],
       "remote": false,
       "categories": [
@@ -17,80 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-04-22T20:23:36Z",
-      "url": "https://www.themuse.com/jobs/northropgrumman/software-engineer-level-2-6ad96d"
-    },
-    {
-      "id": 21611497,
-      "title": "Wireless Module Test Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-22T19:50:26Z",
-      "url": "https://www.themuse.com/jobs/apple/wireless-module-test-engineer-9bf93b"
-    },
-    {
-      "id": 21558168,
-      "title": "Embedded Software Engineer, Audio & Media Technologies",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-22T19:48:59Z",
-      "url": "https://www.themuse.com/jobs/apple/embedded-software-engineer-audio-media-technologies-e2d052"
-    },
-    {
-      "id": 21592738,
-      "title": "Silicon Validation Software Engineer - High Speed IO Validation",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-22T19:48:44Z",
-      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-high-speed-io-validation-9ca8a3"
-    },
-    {
-      "id": 21610707,
-      "title": "Software Engineer II- Front end/DevOps",
-      "company": "JPMorgan Chase",
-      "company_logo": "",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-22T19:25:18Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-ii-front-enddevops"
+      "published": "2026-04-23T20:46:06Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/software-engineer-simulation-oklahoma-city-or-melbourne-fl-98e56f"
     },
     {
       "id": 21610476,
@@ -163,6 +91,24 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
+    },
+    {
+      "id": 15234383,
+      "title": "Software Engineer- LiveStreaming Player (C++)",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Sydney, Australia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-02-18T20:01:25Z",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20265064,
