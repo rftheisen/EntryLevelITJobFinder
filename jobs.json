@@ -1,43 +1,7 @@
 {
-  "updated": "2026-04-25T07:16:52Z",
-  "count": 10,
+  "updated": "2026-04-26T07:39:54Z",
+  "count": 8,
   "jobs": [
-    {
-      "id": 21562152,
-      "title": "Software Engineer (Python) - Supply Chain Integration",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-24T19:40:33Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-python-supply-chain-integration-0f608b"
-    },
-    {
-      "id": 21560519,
-      "title": "Software Engineer (GenAi - Platform & Solution), AI & Data Platforms (AiDP)",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-24T19:40:09Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-genai-platform-solution-ai-data-platforms-aidp-b15e5f"
-    },
     {
       "id": 21610476,
       "title": "Software Engineer III, Currencies & Emerging Markets",
