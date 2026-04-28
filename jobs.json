@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-27T08:25:23Z",
-  "count": 8,
+  "updated": "2026-04-28T08:25:10Z",
+  "count": 9,
   "jobs": [
+    {
+      "id": 21203660,
+      "title": "DevOps Staff Software Engineer",
+      "company": "Northrop Grumman",
+      "company_logo": "",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-27T20:34:13Z",
+      "url": "https://www.themuse.com/jobs/northropgrumman/devops-staff-software-engineer-b303a0"
+    },
     {
       "id": 21610476,
       "title": "Software Engineer III, Currencies & Emerging Markets",
