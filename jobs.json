@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-30T08:21:42Z",
-  "count": 8,
+  "updated": "2026-05-01T08:11:13Z",
+  "count": 11,
   "jobs": [
+    {
+      "id": 21633028,
+      "title": "Software Engineer",
+      "company": "General Motors",
+      "company_logo": "",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-30T20:04:06Z",
+      "url": "https://www.themuse.com/jobs/generalmotors/software-engineer-d9e93a"
+    },
+    {
+      "id": 21560791,
+      "title": "Software Engineer (Developer Tools Installation Technologies), Developer Workflows",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-30T19:43:26Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-developer-tools-installation-technologies-developer-workflows"
+    },
+    {
+      "id": 21560619,
+      "title": "Software Engineer -  Final Cut Camera - Video Apps",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-04-30T19:43:22Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-final-cut-camera-video-apps-a4cfc5"
+    },
     {
       "id": 21610476,
       "title": "Software Engineer III, Currencies & Emerging Markets",
