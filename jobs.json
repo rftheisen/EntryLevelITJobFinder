@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-02T07:44:05Z",
-  "count": 10,
+  "updated": "2026-05-03T08:00:55Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21561985,
-      "title": "Wireless Networking Software Engineer, Wireless Technologies & Ecosystems",
+      "id": 21558725,
+      "title": "Software Engineer - Backend & Infrastructure",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-01T19:48:46Z",
-      "url": "https://www.themuse.com/jobs/apple/wireless-networking-software-engineer-wireless-technologies-ecosystems-528ec5"
-    },
-    {
-      "id": 21559295,
-      "title": "ML Software Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-01T19:47:46Z",
-      "url": "https://www.themuse.com/jobs/apple/ml-software-engineer-c6758b"
+      "published": "2026-05-02T19:38:45Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-backend-infrastructure-e2f580"
     },
     {
       "id": 21633028,
