@@ -1,10 +1,46 @@
 {
-  "updated": "2026-05-03T08:00:55Z",
-  "count": 9,
+  "updated": "2026-05-04T08:29:37Z",
+  "count": 11,
   "jobs": [
     {
-      "id": 21558725,
-      "title": "Software Engineer - Backend & Infrastructure",
+      "id": 21558225,
+      "title": "Software Engineer, Creativity Apps",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cary, NC"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-03T19:45:29Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-creativity-apps-231702"
+    },
+    {
+      "id": 21558026,
+      "title": "Camera Simulation Software Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-03T19:45:27Z",
+      "url": "https://www.themuse.com/jobs/apple/camera-simulation-software-engineer-811b00"
+    },
+    {
+      "id": 21606115,
+      "title": "Software Engineer, Apple Services Engineering",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,8 +53,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-02T19:38:45Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-backend-infrastructure-e2f580"
+      "published": "2026-05-03T19:45:08Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-e99afb"
     },
     {
       "id": 21633028,
