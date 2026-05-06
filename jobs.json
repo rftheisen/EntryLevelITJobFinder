@@ -1,28 +1,10 @@
 {
-  "updated": "2026-05-05T08:09:15Z",
-  "count": 9,
+  "updated": "2026-05-06T08:26:27Z",
+  "count": 10,
   "jobs": [
     {
-      "id": 21561974,
-      "title": "Software Engineer, Observability",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-04T19:48:38Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-observability-0347b3"
-    },
-    {
-      "id": 21574931,
-      "title": "Hardware Systems Engineer - Board Design",
+      "id": 21561240,
+      "title": "Software Engineer (Java & Gen Ai), Sales Engineering",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -35,8 +17,62 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-04T19:47:09Z",
-      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-board-design-cb25dc"
+      "published": "2026-05-05T19:56:52Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-java-gen-ai-sales-engineering-ba2ade"
+    },
+    {
+      "id": 21561449,
+      "title": "Software Engineer, System Experience",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-05T19:56:36Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-system-experience-8d9dfb"
+    },
+    {
+      "id": 21560495,
+      "title": "Software Engineer - Creator Studio",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cary, NC"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-05T19:56:07Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-a4ec59"
+    },
+    {
+      "id": 21661409,
+      "title": "Communications Network Engineer",
+      "company": "Leidos",
+      "company_logo": "",
+      "locations": [
+        "Orlando, FL"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-05T18:58:45Z",
+      "url": "https://www.themuse.com/jobs/leidos/communications-network-engineer-0b80af"
     },
     {
       "id": 21610476,
@@ -55,24 +91,6 @@
       ],
       "published": "2026-04-22T19:25:15Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-currencies-emerging-markets"
-    },
-    {
-      "id": 21537195,
-      "title": "Test Engineer III",
-      "company": "Jabil",
-      "company_logo": "",
-      "locations": [
-        "Guadalajara, Mexico"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-04-08T23:56:55Z",
-      "url": "https://www.themuse.com/jobs/jabil/test-engineer-iii-615e57"
     },
     {
       "id": 15401275,
