@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-06T08:26:27Z",
-  "count": 10,
+  "updated": "2026-05-07T08:33:03Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21561240,
-      "title": "Software Engineer (Java & Gen Ai), Sales Engineering",
+      "id": 21559817,
+      "title": "Software Engineer - Strategic Data Solutions",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-05T19:56:52Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-java-gen-ai-sales-engineering-ba2ade"
+      "published": "2026-05-06T19:50:34Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-strategic-data-solutions-298bc0"
     },
     {
-      "id": 21561449,
-      "title": "Software Engineer, System Experience",
+      "id": 21558044,
+      "title": "Software Engineer, Apple Services Engineering",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Santa Clara, CA"
+        "San Francisco, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,26 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-05T19:56:36Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-system-experience-8d9dfb"
-    },
-    {
-      "id": 21560495,
-      "title": "Software Engineer - Creator Studio",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cary, NC"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-05T19:56:07Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-a4ec59"
+      "published": "2026-05-06T19:49:30Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-2e00cd"
     },
     {
       "id": 21661409,
