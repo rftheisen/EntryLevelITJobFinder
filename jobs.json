@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-08T07:41:56Z",
-  "count": 11,
+  "updated": "2026-05-09T07:56:13Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21561301,
-      "title": "Software Engineer: SoC System Stress Validation",
+      "id": 21558826,
+      "title": "Software Engineer, Safari Extensions",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "San Diego, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,62 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-07T20:05:23Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-soc-system-stress-validation-87bc15"
-    },
-    {
-      "id": 21559628,
-      "title": "Software Engineer, Siri Attention and Invocation",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-07T20:04:02Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-siri-attention-and-invocation-42f114"
-    },
-    {
-      "id": 21559221,
-      "title": "SoC Security Architect - Platform Architecture",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-07T20:03:56Z",
-      "url": "https://www.themuse.com/jobs/apple/soc-security-architect-platform-architecture-b03419"
-    },
-    {
-      "id": 21592733,
-      "title": "SoC Embedded Software Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-07T20:03:13Z",
-      "url": "https://www.themuse.com/jobs/apple/soc-embedded-software-engineer-07fbad"
+      "published": "2026-05-08T20:15:23Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-safari-extensions-d71ad9"
     },
     {
       "id": 21661409,
@@ -200,6 +146,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
