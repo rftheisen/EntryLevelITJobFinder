@@ -1,14 +1,16 @@
 {
-  "updated": "2026-05-09T07:56:13Z",
-  "count": 9,
+  "updated": "2026-05-10T08:07:12Z",
+  "count": 10,
   "jobs": [
     {
-      "id": 21558826,
-      "title": "Software Engineer, Safari Extensions",
-      "company": "Apple",
+      "id": 21684590,
+      "title": "Application Security Integration Engineer",
+      "company": "Vanguard",
       "company_logo": "",
       "locations": [
-        "San Diego, CA"
+        "Charlotte, NC",
+        "Dallas, TX",
+        "Malvern, PA"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +19,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-08T20:15:23Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-safari-extensions-d71ad9"
+      "published": "2026-05-09T20:16:20Z",
+      "url": "https://www.themuse.com/jobs/vanguard/application-security-integration-engineer-f15094"
+    },
+    {
+      "id": 21636892,
+      "title": "Wireless System Automation and Test Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Compton, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-09T19:36:07Z",
+      "url": "https://www.themuse.com/jobs/apple/wireless-system-automation-and-test-engineer-87234e"
     },
     {
       "id": 21661409,
