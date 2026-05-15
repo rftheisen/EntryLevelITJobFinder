@@ -1,43 +1,7 @@
 {
-  "updated": "2026-05-14T08:36:46Z",
-  "count": 12,
+  "updated": "2026-05-15T08:48:38Z",
+  "count": 8,
   "jobs": [
-    {
-      "id": 21699003,
-      "title": "Cybersecurity Counsel",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-13T19:57:27Z",
-      "url": "https://www.themuse.com/jobs/apple/cybersecurity-counsel-1a5a50"
-    },
-    {
-      "id": 21699432,
-      "title": "QA Automation Engineer - Apple Neural Engine (ANE)",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-13T19:57:21Z",
-      "url": "https://www.themuse.com/jobs/apple/qa-automation-engineer-apple-neural-engine-ane-b80cbf"
-    },
     {
       "id": 21485018,
       "title": "AWS Cloud Engineer - Contact Center",
@@ -55,42 +19,6 @@
       ],
       "published": "2026-05-13T18:53:53Z",
       "url": "https://www.themuse.com/jobs/thehartford/aws-cloud-engineer-contact-center-036c56"
-    },
-    {
-      "id": 21632662,
-      "title": "Software Engineer, Web Infrastructure ",
-      "company": "Airbnb",
-      "company_logo": "",
-      "locations": [
-        "Gunnison, CO"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-13T18:33:27Z",
-      "url": "https://www.themuse.com/jobs/airbnb/software-engineer-web-infrastructure"
-    },
-    {
-      "id": 21486382,
-      "title": ".Net Fullstack Lead Engineer - IT (T4)",
-      "company": "Alight Solutions LLC",
-      "company_logo": "",
-      "locations": [
-        "Gurgaon, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-12T19:36:58Z",
-      "url": "https://www.themuse.com/jobs/alightsolutionsllc/net-fullstack-lead-engineer-it-t4"
     },
     {
       "id": 21684590,
