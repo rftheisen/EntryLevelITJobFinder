@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-18T10:03:07Z",
-  "count": 8,
+  "updated": "2026-05-19T09:42:00Z",
+  "count": 10,
   "jobs": [
+    {
+      "id": 21700964,
+      "title": "Prototyping Systems Engineer - Platform Architecture",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-18T19:40:52Z",
+      "url": "https://www.themuse.com/jobs/apple/prototyping-systems-engineer-platform-architecture-4c01fb"
+    },
+    {
+      "id": 21699916,
+      "title": "Hardware Systems Engineer - Board Design",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-18T19:40:30Z",
+      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-board-design-03503d"
+    },
     {
       "id": 21485018,
       "title": "AWS Cloud Engineer - Contact Center",
