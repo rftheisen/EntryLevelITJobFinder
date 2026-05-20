@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-19T09:42:00Z",
+  "updated": "2026-05-20T09:33:58Z",
   "count": 10,
   "jobs": [
     {
-      "id": 21700964,
-      "title": "Prototyping Systems Engineer - Platform Architecture",
+      "id": 21699802,
+      "title": "ML Engineer - Experimentation, Portal",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-18T19:40:52Z",
-      "url": "https://www.themuse.com/jobs/apple/prototyping-systems-engineer-platform-architecture-4c01fb"
+      "published": "2026-05-19T20:03:25Z",
+      "url": "https://www.themuse.com/jobs/apple/ml-engineer-experimentation-portal-f0e6d8"
     },
     {
-      "id": 21699916,
-      "title": "Hardware Systems Engineer - Board Design",
+      "id": 21698423,
+      "title": "Software Engineer, Siri Frameworks",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-18T19:40:30Z",
-      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-board-design-03503d"
+      "published": "2026-05-19T20:02:19Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-siri-frameworks-9062f4"
     },
     {
       "id": 21485018,
@@ -113,6 +113,24 @@
       "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-currencies-emerging-markets"
     },
     {
+      "id": 15401275,
+      "title": "Machine Learning engineer - TikTok Search",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Singapore"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-03-27T20:51:05Z",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
+    },
+    {
       "id": 15234383,
       "title": "Software Engineer- LiveStreaming Player (C++)",
       "company": "TikTok",
@@ -129,25 +147,6 @@
       ],
       "published": "2026-02-18T20:01:25Z",
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
-    },
-    {
-      "id": 20265064,
-      "title": "Big Data Software Engineer - Python",
-      "company": "JPMorgan Chase",
-      "company_logo": "",
-      "locations": [
-        "Bah\u00eda Blanca, Argentina",
-        "Buenos Aires, Argentina"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-09-17T19:12:55Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/big-data-software-engineer-python"
     },
     {
       "id": 20211500,
