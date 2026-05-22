@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-21T09:39:48Z",
+  "updated": "2026-05-22T09:22:21Z",
   "count": 9,
   "jobs": [
     {
-      "id": 21700392,
-      "title": "WSoC RF Test Automation Engineer",
+      "id": 21748320,
+      "title": "Cellular Embedded Software Engineer, Wireless Technologies & Ecosystems",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Compton, CA"
+        "Sunnyvale, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-20T20:11:37Z",
-      "url": "https://www.themuse.com/jobs/apple/wsoc-rf-test-automation-engineer-acbf1c"
-    },
-    {
-      "id": 21698175,
-      "title": "Software Engineer: SoC System Stress Validation",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-20T20:10:58Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-soc-system-stress-validation-ec91a3"
+      "published": "2026-05-21T19:39:36Z",
+      "url": "https://www.themuse.com/jobs/apple/cellular-embedded-software-engineer-wireless-technologies-ecosystems-3a15e0"
     },
     {
       "id": 21485018,
@@ -111,6 +93,24 @@
       ],
       "published": "2026-04-22T19:25:15Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-currencies-emerging-markets"
+    },
+    {
+      "id": 15401275,
+      "title": "Machine Learning engineer - TikTok Search",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Singapore"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-03-27T20:51:05Z",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
     },
     {
       "id": 15234383,
