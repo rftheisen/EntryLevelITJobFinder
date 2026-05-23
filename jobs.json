@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-22T09:22:21Z",
-  "count": 9,
+  "updated": "2026-05-23T08:19:49Z",
+  "count": 8,
   "jobs": [
     {
-      "id": 21748320,
-      "title": "Cellular Embedded Software Engineer, Wireless Technologies & Ecosystems",
+      "id": 21751857,
+      "title": "Software Engineer, Watch Software",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Sunnyvale, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-21T19:39:36Z",
-      "url": "https://www.themuse.com/jobs/apple/cellular-embedded-software-engineer-wireless-technologies-ecosystems-3a15e0"
+      "published": "2026-05-22T19:31:19Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-watch-software-562fa8"
     },
     {
-      "id": 21485018,
-      "title": "AWS Cloud Engineer - Contact Center",
-      "company": "The Hartford",
+      "id": 21751486,
+      "title": "Software Engineer, Apple Services Engineering",
+      "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Hartford, CT"
+        "San Francisco, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-13T18:53:53Z",
-      "url": "https://www.themuse.com/jobs/thehartford/aws-cloud-engineer-contact-center-036c56"
+      "published": "2026-05-22T19:31:13Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-09957c"
     },
     {
       "id": 21684590,
@@ -111,24 +111,6 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20211500,
