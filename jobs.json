@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-25T10:05:46Z",
-  "count": 7,
+  "updated": "2026-05-26T09:56:00Z",
+  "count": 10,
   "jobs": [
+    {
+      "id": 21750014,
+      "title": "SoC Embedded Software Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-25T19:24:05Z",
+      "url": "https://www.themuse.com/jobs/apple/soc-embedded-software-engineer-c5cb21"
+    },
+    {
+      "id": 21749398,
+      "title": "Software QA Engineer - Swift macOS",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-25T19:23:54Z",
+      "url": "https://www.themuse.com/jobs/apple/software-qa-engineer-swift-macos-326a3b"
+    },
+    {
+      "id": 21748305,
+      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-25T19:23:42Z",
+      "url": "https://www.themuse.com/jobs/apple/wifi-software-engineer-wireless-technologies-ecosystems-85e372"
+    },
     {
       "id": 21460829,
       "title": "Software Engineer Sr",
