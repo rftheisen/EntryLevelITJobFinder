@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-26T09:56:00Z",
-  "count": 10,
+  "updated": "2026-05-27T09:48:59Z",
+  "count": 8,
   "jobs": [
     {
-      "id": 21750014,
-      "title": "SoC Embedded Software Engineer",
+      "id": 21752752,
+      "title": "WSoC RF Test Automation Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Compton, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-25T19:24:05Z",
-      "url": "https://www.themuse.com/jobs/apple/soc-embedded-software-engineer-c5cb21"
+      "published": "2026-05-26T19:42:24Z",
+      "url": "https://www.themuse.com/jobs/apple/wsoc-rf-test-automation-engineer-65b806"
     },
     {
-      "id": 21749398,
-      "title": "Software QA Engineer - Swift macOS",
+      "id": 21764090,
+      "title": "Software Engineer, Data Solutions ASE",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Diego, CA"
+        "New York, NY"
       ],
       "remote": false,
       "categories": [
@@ -35,42 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-25T19:23:54Z",
-      "url": "https://www.themuse.com/jobs/apple/software-qa-engineer-swift-macos-326a3b"
-    },
-    {
-      "id": 21748305,
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-25T19:23:42Z",
-      "url": "https://www.themuse.com/jobs/apple/wifi-software-engineer-wireless-technologies-ecosystems-85e372"
-    },
-    {
-      "id": 21460829,
-      "title": "Software Engineer Sr",
-      "company": "PNC",
-      "company_logo": "",
-      "locations": [],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-24T18:49:17Z",
-      "url": "https://www.themuse.com/jobs/pnc/software-engineer-sr-0f236e"
+      "published": "2026-05-26T19:38:44Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-data-solutions-ase"
     },
     {
       "id": 21661409,
