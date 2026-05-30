@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-29T09:53:42Z",
+  "updated": "2026-05-30T08:27:43Z",
   "count": 6,
   "jobs": [
+    {
+      "id": 21785379,
+      "title": "Software Engineer, Proactive - Shortcuts",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-29T19:30:19Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-proactive-shortcuts-97decf"
+    },
     {
       "id": 21346570,
       "title": "Frontend Software Engineer III",
@@ -55,24 +73,6 @@
       ],
       "published": "2026-03-27T20:51:05Z",
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20211500,
