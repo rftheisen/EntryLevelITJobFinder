@@ -1,14 +1,14 @@
 {
-  "updated": "2026-05-30T08:27:43Z",
+  "updated": "2026-05-31T08:44:32Z",
   "count": 6,
   "jobs": [
     {
-      "id": 21785379,
-      "title": "Software Engineer, Proactive - Shortcuts",
-      "company": "Apple",
+      "id": 21795173,
+      "title": "Network Engineer",
+      "company": "Leidos",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Colorado Springs, CO"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-29T19:30:19Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-proactive-shortcuts-97decf"
+      "published": "2026-05-30T18:55:54Z",
+      "url": "https://www.themuse.com/jobs/leidos/network-engineer-318c43"
     },
     {
       "id": 21346570,
