@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-01T11:33:12Z",
-  "count": 7,
+  "updated": "2026-06-02T10:23:05Z",
+  "count": 8,
   "jobs": [
+    {
+      "id": 21752754,
+      "title": "WSoC RF Test Automation Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Compton, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-01T19:22:22Z",
+      "url": "https://www.themuse.com/jobs/apple/wsoc-rf-test-automation-engineer-7e0e4c"
+    },
     {
       "id": 21795173,
       "title": "Network Engineer",
@@ -75,6 +93,24 @@
       "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
     },
     {
+      "id": 15234383,
+      "title": "Software Engineer- LiveStreaming Player (C++)",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Sydney, Australia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-02-18T20:01:25Z",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
+    },
+    {
       "id": 20211500,
       "title": "Software Engineer III",
       "company": "Walmart",
@@ -109,24 +145,6 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
-    },
-    {
-      "id": 18021225,
-      "title": ".NET Developer with Angular",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Soacha, Colombia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-03-25T12:30:36Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
