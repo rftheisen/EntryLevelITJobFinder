@@ -1,43 +1,7 @@
 {
-  "updated": "2026-06-02T10:23:05Z",
-  "count": 8,
+  "updated": "2026-06-03T10:58:43Z",
+  "count": 6,
   "jobs": [
-    {
-      "id": 21752754,
-      "title": "WSoC RF Test Automation Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Compton, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-01T19:22:22Z",
-      "url": "https://www.themuse.com/jobs/apple/wsoc-rf-test-automation-engineer-7e0e4c"
-    },
-    {
-      "id": 21795173,
-      "title": "Network Engineer",
-      "company": "Leidos",
-      "company_logo": "",
-      "locations": [
-        "Colorado Springs, CO"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-30T18:55:54Z",
-      "url": "https://www.themuse.com/jobs/leidos/network-engineer-318c43"
-    },
     {
       "id": 21346570,
       "title": "Frontend Software Engineer III",
