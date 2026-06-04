@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T10:58:43Z",
-  "count": 6,
+  "updated": "2026-06-04T09:55:01Z",
+  "count": 5,
   "jobs": [
     {
       "id": 21346570,
@@ -39,42 +39,6 @@
       "url": "https://www.themuse.com/jobs/leidos/communications-network-engineer-0b80af"
     },
     {
-      "id": 15401275,
-      "title": "Machine Learning engineer - TikTok Search",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Singapore"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-03-27T20:51:05Z",
-      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-tiktok-search-4671ac"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
-    },
-    {
       "id": 20211500,
       "title": "Software Engineer III",
       "company": "Walmart",
@@ -109,6 +73,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
