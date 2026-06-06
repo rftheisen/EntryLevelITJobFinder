@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-05T09:49:51Z",
+  "updated": "2026-06-06T08:33:17Z",
   "count": 8,
   "jobs": [
     {
-      "id": 21786476,
-      "title": "Software Engineer - Creator Studio",
+      "id": 21786725,
+      "title": "Graphics Verification Software Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cary, NC"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-04T19:45:48Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-44ac20"
+      "published": "2026-06-05T19:45:27Z",
+      "url": "https://www.themuse.com/jobs/apple/graphics-verification-software-engineer-aa0d9b"
     },
     {
       "id": 21751695,
@@ -35,26 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-04T19:44:32Z",
+      "published": "2026-06-05T19:43:23Z",
       "url": "https://www.themuse.com/jobs/apple/software-engineer-hardware-engineering-operations-3a09b1"
-    },
-    {
-      "id": 21812175,
-      "title": "Early/Mid-Career R&D Electronics Engineer - Integrated Circuit Test Engineer, Onsite",
-      "company": "Sandia National Laboratories",
-      "company_logo": "",
-      "locations": [
-        "Albuquerque, NM"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-04T18:55:48Z",
-      "url": "https://www.themuse.com/jobs/sandianationallaboratories/earlymidcareer-rd-electronics-engineer-integrated-circuit-test-engineer-onsite"
     },
     {
       "id": 21346570,
@@ -145,6 +127,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
