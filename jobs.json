@@ -1,43 +1,7 @@
 {
-  "updated": "2026-06-09T09:42:39Z",
-  "count": 7,
+  "updated": "2026-06-10T09:59:25Z",
+  "count": 6,
   "jobs": [
-    {
-      "id": 21784112,
-      "title": "Cellular RF Receiver Algorithms Systems Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-08T19:32:57Z",
-      "url": "https://www.themuse.com/jobs/apple/cellular-rf-receiver-algorithms-systems-engineer-642f86"
-    },
-    {
-      "id": 21752704,
-      "title": "WSoC RF Test Automation Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Compton, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-08T19:32:23Z",
-      "url": "https://www.themuse.com/jobs/apple/wsoc-rf-test-automation-engineer-0c277e"
-    },
     {
       "id": 21346570,
       "title": "Frontend Software Engineer III",
@@ -127,6 +91,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
