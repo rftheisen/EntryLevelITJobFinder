@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-10T09:59:25Z",
-  "count": 6,
+  "updated": "2026-06-11T10:23:40Z",
+  "count": 5,
   "jobs": [
     {
       "id": 21346570,
@@ -19,24 +19,6 @@
       ],
       "published": "2026-05-28T19:19:02Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/frontend-software-engineer-iii-9583e7"
-    },
-    {
-      "id": 21661409,
-      "title": "Communications Network Engineer",
-      "company": "Leidos",
-      "company_logo": "",
-      "locations": [
-        "Orlando, FL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-05T18:58:45Z",
-      "url": "https://www.themuse.com/jobs/leidos/communications-network-engineer-0b80af"
     },
     {
       "id": 15234383,
