@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-11T10:23:40Z",
+  "updated": "2026-06-12T10:12:36Z",
   "count": 5,
   "jobs": [
+    {
+      "id": 21672460,
+      "title": "C# .Net Software Engineer",
+      "company": "CCC Intelligent Solutions",
+      "company_logo": "",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-11T18:58:23Z",
+      "url": "https://www.themuse.com/jobs/cccintelligentsolutions/c-net-software-engineer"
+    },
     {
       "id": 21346570,
       "title": "Frontend Software Engineer III",
@@ -19,24 +37,6 @@
       ],
       "published": "2026-05-28T19:19:02Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/frontend-software-engineer-iii-9583e7"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20211500,
