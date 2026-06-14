@@ -1,61 +1,7 @@
 {
-  "updated": "2026-06-13T08:57:29Z",
-  "count": 8,
+  "updated": "2026-06-14T09:33:47Z",
+  "count": 5,
   "jobs": [
-    {
-      "id": 21787016,
-      "title": "Software Engineer - Applied Machine Learning & Localization",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-12T19:56:48Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-applied-machine-learning-localization-7df5a5"
-    },
-    {
-      "id": 21785805,
-      "title": "Graphics Software Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-12T19:54:55Z",
-      "url": "https://www.themuse.com/jobs/apple/graphics-software-engineer-46835d"
-    },
-    {
-      "id": 21784931,
-      "title": "Software Engineer, Watch Software",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Boulder, CO"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-12T19:49:43Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-watch-software-8e696d"
-    },
     {
       "id": 21672460,
       "title": "C# .Net Software Engineer",
