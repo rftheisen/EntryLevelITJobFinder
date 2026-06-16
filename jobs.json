@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-15T12:12:57Z",
-  "count": 9,
+  "updated": "2026-06-16T11:09:59Z",
+  "count": 8,
   "jobs": [
     {
-      "id": 21787060,
-      "title": "Software Engineer, Creativity Apps",
+      "id": 21786606,
+      "title": "Software Engineer, Core Networking",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cary, NC"
+        "Emeryville, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-14T19:27:15Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-creativity-apps"
+      "published": "2026-06-15T19:31:27Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-core-networking-576879"
     },
     {
-      "id": 21748792,
-      "title": "Silicon Validation Software Engineer: Embedded and Low-level Programming",
+      "id": 21786384,
+      "title": "Cloud Network Software Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Sunnyvale, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,44 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-14T19:26:04Z",
-      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-embedded-and-lowlevel-programming-ec385c"
-    },
-    {
-      "id": 21749496,
-      "title": "Prototyping Systems Engineer - Platform Architecture",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-14T19:26:00Z",
-      "url": "https://www.themuse.com/jobs/apple/prototyping-systems-engineer-platform-architecture-6ca53a"
-    },
-    {
-      "id": 21764119,
-      "title": "Voice Platform Software Engineer, Customer Systems",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-14T19:25:46Z",
-      "url": "https://www.themuse.com/jobs/apple/voice-platform-software-engineer-customer-systems"
+      "published": "2026-06-15T19:31:20Z",
+      "url": "https://www.themuse.com/jobs/apple/cloud-network-software-engineer-a10267"
     },
     {
       "id": 21672460,
@@ -109,6 +73,24 @@
       ],
       "published": "2026-05-28T19:19:02Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/frontend-software-engineer-iii-9583e7"
+    },
+    {
+      "id": 15234383,
+      "title": "Software Engineer- LiveStreaming Player (C++)",
+      "company": "TikTok",
+      "company_logo": "",
+      "locations": [
+        "Sydney, Australia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-02-18T20:01:25Z",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20211500,
