@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-16T11:09:59Z",
-  "count": 8,
+  "updated": "2026-06-17T10:55:33Z",
+  "count": 7,
   "jobs": [
     {
-      "id": 21786606,
-      "title": "Software Engineer, Core Networking",
+      "id": 21855666,
+      "title": "AIML - Machine Learning Engineer, Foundation Models",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Emeryville, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-15T19:31:27Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-core-networking-576879"
+      "published": "2026-06-16T19:46:12Z",
+      "url": "https://www.themuse.com/jobs/apple/aiml-machine-learning-engineer-foundation-models-46b30c"
     },
     {
-      "id": 21786384,
-      "title": "Cloud Network Software Engineer",
+      "id": 21771029,
+      "title": "Software Engineer, Apple Services Engineering",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Sunnyvale, CA"
+        "San Francisco, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-15T19:31:20Z",
-      "url": "https://www.themuse.com/jobs/apple/cloud-network-software-engineer-a10267"
+      "published": "2026-06-16T19:42:41Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-34a254"
     },
     {
       "id": 21672460,
@@ -73,24 +73,6 @@
       ],
       "published": "2026-05-28T19:19:02Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/frontend-software-engineer-iii-9583e7"
-    },
-    {
-      "id": 15234383,
-      "title": "Software Engineer- LiveStreaming Player (C++)",
-      "company": "TikTok",
-      "company_logo": "",
-      "locations": [
-        "Sydney, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-02-18T20:01:25Z",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-livestreaming-player-c"
     },
     {
       "id": 20211500,
