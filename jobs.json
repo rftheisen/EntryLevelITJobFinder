@@ -1,10 +1,46 @@
 {
-  "updated": "2026-06-17T10:55:33Z",
-  "count": 7,
+  "updated": "2026-06-18T10:19:53Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21855666,
-      "title": "AIML - Machine Learning Engineer, Foundation Models",
+      "id": 21784190,
+      "title": "Systems QA Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-18T00:42:45Z",
+      "url": "https://www.themuse.com/jobs/apple/systems-qa-engineer-055521"
+    },
+    {
+      "id": 21784080,
+      "title": "Full-Stack Software Engineer - Device Telemetry",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-18T00:42:21Z",
+      "url": "https://www.themuse.com/jobs/apple/fullstack-software-engineer-device-telemetry-ef8602"
+    },
+    {
+      "id": 21749405,
+      "title": "Silicon Validation Software Engineer - GPU IP Validation and Integration",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,16 +53,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-16T19:46:12Z",
-      "url": "https://www.themuse.com/jobs/apple/aiml-machine-learning-engineer-foundation-models-46b30c"
+      "published": "2026-06-18T00:42:10Z",
+      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-gpu-ip-validation-and-integration-f7dfcf"
     },
     {
-      "id": 21771029,
-      "title": "Software Engineer, Apple Services Engineering",
+      "id": 21824767,
+      "title": "AI Software Engineer, Siri User Experiences",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Francisco, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +71,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-16T19:42:41Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-34a254"
+      "published": "2026-06-18T00:41:54Z",
+      "url": "https://www.themuse.com/jobs/apple/ai-software-engineer-siri-user-experiences"
     },
     {
       "id": 21672460,
