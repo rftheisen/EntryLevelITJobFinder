@@ -1,46 +1,10 @@
 {
-  "updated": "2026-06-18T10:19:53Z",
-  "count": 9,
+  "updated": "2026-06-19T10:25:15Z",
+  "count": 7,
   "jobs": [
     {
-      "id": 21784190,
-      "title": "Systems QA Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-18T00:42:45Z",
-      "url": "https://www.themuse.com/jobs/apple/systems-qa-engineer-055521"
-    },
-    {
-      "id": 21784080,
-      "title": "Full-Stack Software Engineer - Device Telemetry",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-18T00:42:21Z",
-      "url": "https://www.themuse.com/jobs/apple/fullstack-software-engineer-device-telemetry-ef8602"
-    },
-    {
-      "id": 21749405,
-      "title": "Silicon Validation Software Engineer - GPU IP Validation and Integration",
+      "id": 21749319,
+      "title": "Internationalization Software Engineer, Input Experience",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -53,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-18T00:42:10Z",
-      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-gpu-ip-validation-and-integration-f7dfcf"
+      "published": "2026-06-18T19:55:24Z",
+      "url": "https://www.themuse.com/jobs/apple/internationalization-software-engineer-input-experience-93ee37"
     },
     {
-      "id": 21824767,
-      "title": "AI Software Engineer, Siri User Experiences",
+      "id": 21823269,
+      "title": "Software Tools and Automation Engineer - Apple Services Engineering",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Seattle, WA"
       ],
       "remote": false,
       "categories": [
@@ -71,8 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-18T00:41:54Z",
-      "url": "https://www.themuse.com/jobs/apple/ai-software-engineer-siri-user-experiences"
+      "published": "2026-06-18T19:55:05Z",
+      "url": "https://www.themuse.com/jobs/apple/software-tools-and-automation-engineer-apple-services-engineering"
     },
     {
       "id": 21672460,
@@ -93,12 +57,12 @@
       "url": "https://www.themuse.com/jobs/cccintelligentsolutions/c-net-software-engineer"
     },
     {
-      "id": 21346570,
-      "title": "Frontend Software Engineer III",
-      "company": "JPMorgan Chase",
+      "id": 21794835,
+      "title": ".NET Full Stack Developer",
+      "company": "Infosys",
       "company_logo": "",
       "locations": [
-        "Glasgow, United Kingdom"
+        "Guadalajara, Mexico"
       ],
       "remote": false,
       "categories": [
@@ -107,8 +71,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-28T19:19:02Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/frontend-software-engineer-iii-9583e7"
+      "published": "2026-05-30T18:45:23Z",
+      "url": "https://www.themuse.com/jobs/infosys/net-full-stack-developer-f7fa20"
     },
     {
       "id": 20211500,
