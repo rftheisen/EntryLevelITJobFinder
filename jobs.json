@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-19T10:25:15Z",
-  "count": 7,
+  "updated": "2026-06-20T08:55:37Z",
+  "count": 6,
   "jobs": [
     {
-      "id": 21749319,
-      "title": "Internationalization Software Engineer, Input Experience",
+      "id": 21750131,
+      "title": "Software Engineer - Strategic Data Solutions",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-18T19:55:24Z",
-      "url": "https://www.themuse.com/jobs/apple/internationalization-software-engineer-input-experience-93ee37"
-    },
-    {
-      "id": 21823269,
-      "title": "Software Tools and Automation Engineer - Apple Services Engineering",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-18T19:55:05Z",
-      "url": "https://www.themuse.com/jobs/apple/software-tools-and-automation-engineer-apple-services-engineering"
+      "published": "2026-06-19T20:03:56Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-strategic-data-solutions-dc6d69"
     },
     {
       "id": 21672460,
