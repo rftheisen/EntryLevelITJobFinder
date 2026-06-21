@@ -1,43 +1,7 @@
 {
-  "updated": "2026-06-20T08:55:37Z",
-  "count": 6,
+  "updated": "2026-06-21T09:49:33Z",
+  "count": 4,
   "jobs": [
-    {
-      "id": 21750131,
-      "title": "Software Engineer - Strategic Data Solutions",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-19T20:03:56Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-strategic-data-solutions-dc6d69"
-    },
-    {
-      "id": 21672460,
-      "title": "C# .Net Software Engineer",
-      "company": "CCC Intelligent Solutions",
-      "company_logo": "",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-11T18:58:23Z",
-      "url": "https://www.themuse.com/jobs/cccintelligentsolutions/c-net-software-engineer"
-    },
     {
       "id": 21794835,
       "title": ".NET Full Stack Developer",
