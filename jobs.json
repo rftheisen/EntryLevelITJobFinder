@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-21T09:49:33Z",
-  "count": 4,
+  "updated": "2026-06-22T11:53:09Z",
+  "count": 5,
   "jobs": [
+    {
+      "id": 21787059,
+      "title": "Tools and Automation Engineer, Watch Software",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-21T19:34:07Z",
+      "url": "https://www.themuse.com/jobs/apple/tools-and-automation-engineer-watch-software-0a16a6"
+    },
     {
       "id": 21794835,
       "title": ".NET Full Stack Developer",
