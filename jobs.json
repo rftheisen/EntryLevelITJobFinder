@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-23T09:37:54Z",
-  "count": 5,
+  "updated": "2026-06-24T09:29:02Z",
+  "count": 6,
   "jobs": [
     {
-      "id": 21843848,
-      "title": "AirPods Software Engineer, Sensing & Connectivity",
+      "id": 21872418,
+      "title": "Graphics Software Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Diego, CA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-22T20:09:33Z",
-      "url": "https://www.themuse.com/jobs/apple/airpods-software-engineer-sensing-connectivity-0c7a30"
+      "published": "2026-06-23T20:13:03Z",
+      "url": "https://www.themuse.com/jobs/apple/graphics-software-engineer-35064a"
     },
     {
-      "id": 21794835,
-      "title": ".NET Full Stack Developer",
-      "company": "Infosys",
+      "id": 21542124,
+      "title": "Software Engineer III - React/UI/Python",
+      "company": "JPMorgan Chase",
       "company_logo": "",
       "locations": [
-        "Guadalajara, Mexico"
+        "Plano, TX"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +35,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-05-30T18:45:23Z",
-      "url": "https://www.themuse.com/jobs/infosys/net-full-stack-developer-f7fa20"
+      "published": "2026-06-23T19:53:09Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-reactuipython-db6e7a"
+    },
+    {
+      "id": 21673781,
+      "title": "Software Engineer III - React UI Developer",
+      "company": "JPMorgan Chase",
+      "company_logo": "",
+      "locations": [
+        "Singapore"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-28T19:16:47Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-react-ui-developer-de283e"
     },
     {
       "id": 20211500,
