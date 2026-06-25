@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-24T09:29:02Z",
-  "count": 6,
+  "updated": "2026-06-25T09:20:58Z",
+  "count": 4,
   "jobs": [
     {
-      "id": 21872418,
-      "title": "Graphics Software Engineer",
+      "id": 21751323,
+      "title": "Software Engineer, watchOS Widgets & Live Activities - Watch Software",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-23T20:13:03Z",
-      "url": "https://www.themuse.com/jobs/apple/graphics-software-engineer-35064a"
+      "published": "2026-06-25T00:33:35Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-watchos-widgets-live-activities-watch-software-74bdc1"
     },
     {
       "id": 21542124,
@@ -37,24 +37,6 @@
       ],
       "published": "2026-06-23T19:53:09Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-reactuipython-db6e7a"
-    },
-    {
-      "id": 21673781,
-      "title": "Software Engineer III - React UI Developer",
-      "company": "JPMorgan Chase",
-      "company_logo": "",
-      "locations": [
-        "Singapore"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-28T19:16:47Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-react-ui-developer-de283e"
     },
     {
       "id": 20211500,
@@ -91,24 +73,6 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
-    },
-    {
-      "id": 18021225,
-      "title": ".NET Developer with Angular",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Soacha, Colombia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-03-25T12:30:36Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
