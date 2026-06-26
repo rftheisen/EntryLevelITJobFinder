@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-25T09:20:58Z",
-  "count": 4,
+  "updated": "2026-06-26T09:26:15Z",
+  "count": 6,
   "jobs": [
     {
-      "id": 21751323,
-      "title": "Software Engineer, watchOS Widgets & Live Activities - Watch Software",
+      "id": 21785755,
+      "title": "Embedded Machine Learning Engineer, Wireless Technologies & Ecosystems",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Seattle, WA"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-25T00:33:35Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-watchos-widgets-live-activities-watch-software-74bdc1"
+      "published": "2026-06-25T20:07:52Z",
+      "url": "https://www.themuse.com/jobs/apple/embedded-machine-learning-engineer-wireless-technologies-ecosystems-22ede9"
     },
     {
-      "id": 21542124,
-      "title": "Software Engineer III - React/UI/Python",
-      "company": "JPMorgan Chase",
+      "id": 21752391,
+      "title": "Software Engineer - SOC Power Management, Core OS",
+      "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Plano, TX"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +35,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-23T19:53:09Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-reactuipython-db6e7a"
+      "published": "2026-06-25T20:06:49Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-soc-power-management-core-os-fb4b23"
+    },
+    {
+      "id": 21751325,
+      "title": "Software Engineer - Capture, Vision Products Software",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-25T20:06:33Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-capture-vision-products-software-a85984"
     },
     {
       "id": 20211500,
@@ -73,6 +91,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
