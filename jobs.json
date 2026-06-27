@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-26T09:26:15Z",
-  "count": 6,
+  "updated": "2026-06-27T08:35:08Z",
+  "count": 7,
   "jobs": [
     {
-      "id": 21785755,
-      "title": "Embedded Machine Learning Engineer, Wireless Technologies & Ecosystems",
+      "id": 21787059,
+      "title": "Tools and Automation Engineer, Watch Software",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Seattle, WA"
+        "San Diego, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-25T20:07:52Z",
-      "url": "https://www.themuse.com/jobs/apple/embedded-machine-learning-engineer-wireless-technologies-ecosystems-22ede9"
+      "published": "2026-06-27T00:19:10Z",
+      "url": "https://www.themuse.com/jobs/apple/tools-and-automation-engineer-watch-software-0a16a6"
     },
     {
-      "id": 21752391,
-      "title": "Software Engineer - SOC Power Management, Core OS",
+      "id": 21786793,
+      "title": "JavaScriptCore Security Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,16 +35,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-25T20:06:49Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-soc-power-management-core-os-fb4b23"
+      "published": "2026-06-27T00:19:05Z",
+      "url": "https://www.themuse.com/jobs/apple/javascriptcore-security-engineer-72b689"
     },
     {
-      "id": 21751325,
-      "title": "Software Engineer - Capture, Vision Products Software",
-      "company": "Apple",
+      "id": 21890413,
+      "title": "Software Engineer Lead (ETL)",
+      "company": "PNC",
       "company_logo": "",
       "locations": [
-        "Emeryville, CA"
+        "Pittsburgh, PA"
       ],
       "remote": false,
       "categories": [
@@ -53,8 +53,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-25T20:06:33Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-capture-vision-products-software-a85984"
+      "published": "2026-06-26T18:48:32Z",
+      "url": "https://www.themuse.com/jobs/pnc/software-engineer-lead-etl-f51ee4"
+    },
+    {
+      "id": 21673781,
+      "title": "Software Engineer III - React UI Developer",
+      "company": "JPMorgan Chase",
+      "company_logo": "",
+      "locations": [
+        "Singapore"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-05-28T19:16:47Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-react-ui-developer-de283e"
     },
     {
       "id": 20211500,
