@@ -1,43 +1,7 @@
 {
-  "updated": "2026-06-27T08:35:08Z",
-  "count": 7,
+  "updated": "2026-06-28T08:50:44Z",
+  "count": 5,
   "jobs": [
-    {
-      "id": 21787059,
-      "title": "Tools and Automation Engineer, Watch Software",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-27T00:19:10Z",
-      "url": "https://www.themuse.com/jobs/apple/tools-and-automation-engineer-watch-software-0a16a6"
-    },
-    {
-      "id": 21786793,
-      "title": "JavaScriptCore Security Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-27T00:19:05Z",
-      "url": "https://www.themuse.com/jobs/apple/javascriptcore-security-engineer-72b689"
-    },
     {
       "id": 21890413,
       "title": "Software Engineer Lead (ETL)",
