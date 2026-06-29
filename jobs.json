@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-28T08:50:44Z",
-  "count": 5,
+  "updated": "2026-06-29T10:58:52Z",
+  "count": 7,
   "jobs": [
+    {
+      "id": 21752477,
+      "title": "Software Engineer, Ai & Data Platforms",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-28T19:29:52Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-ai-data-platforms-bc3d7f"
+    },
+    {
+      "id": 21750167,
+      "title": "Hardware Systems Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-28T19:29:44Z",
+      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-a8b95f"
+    },
+    {
+      "id": 21798022,
+      "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-28T19:29:31Z",
+      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems"
+    },
     {
       "id": 21890413,
       "title": "Software Engineer Lead (ETL)",
@@ -19,24 +73,6 @@
       ],
       "published": "2026-06-26T18:48:32Z",
       "url": "https://www.themuse.com/jobs/pnc/software-engineer-lead-etl-f51ee4"
-    },
-    {
-      "id": 21673781,
-      "title": "Software Engineer III - React UI Developer",
-      "company": "JPMorgan Chase",
-      "company_logo": "",
-      "locations": [
-        "Singapore"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-05-28T19:16:47Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-react-ui-developer-de283e"
     },
     {
       "id": 20211500,
