@@ -1,5 +1,96 @@
 {
-  "updated": "2026-06-30T09:34:47Z",
-  "count": 0,
-  "jobs": []
+  "updated": "2026-07-01T09:45:51Z",
+  "count": 5,
+  "jobs": [
+    {
+      "id": 21785758,
+      "title": "Software Engineer - Distributed Build Systems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-30T19:35:36Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-distributed-build-systems-86fa37"
+    },
+    {
+      "id": 21819432,
+      "title": "Software Engineer - Test and Validation",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-30T19:34:17Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-test-and-validation-9e0710"
+    },
+    {
+      "id": 20211500,
+      "title": "Software Engineer III",
+      "company": "Walmart",
+      "company_logo": "",
+      "locations": [
+        "Rogers, AR"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-09-11T20:28:57Z",
+      "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-696484"
+    },
+    {
+      "id": 20183779,
+      "title": "Software Engineer III",
+      "company": "Walmart",
+      "company_logo": "",
+      "locations": [
+        "Bentonville, AR"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-09-09T20:33:24Z",
+      "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
+    }
+  ]
 }
