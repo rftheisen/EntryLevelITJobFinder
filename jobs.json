@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-01T09:45:51Z",
-  "count": 5,
+  "updated": "2026-07-02T08:55:11Z",
+  "count": 4,
   "jobs": [
     {
-      "id": 21785758,
-      "title": "Software Engineer - Distributed Build Systems",
+      "id": 21750320,
+      "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "San Diego, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-06-30T19:35:36Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-distributed-build-systems-86fa37"
-    },
-    {
-      "id": 21819432,
-      "title": "Software Engineer - Test and Validation",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-30T19:34:17Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-test-and-validation-9e0710"
+      "published": "2026-07-01T19:55:26Z",
+      "url": "https://www.themuse.com/jobs/apple/product-system-test-engineer-wireless-technologies-ecosystems-ea7d80"
     },
     {
       "id": 20211500,
