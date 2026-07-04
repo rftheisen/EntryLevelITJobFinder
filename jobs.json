@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-03T09:17:10Z",
-  "count": 5,
+  "updated": "2026-07-04T08:35:46Z",
+  "count": 6,
   "jobs": [
     {
-      "id": 21819391,
-      "title": "Software Engineer - Distributed Systems & Platform Engineering",
+      "id": 21783848,
+      "title": "Sensing HW - Algorithm Systems Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Emeryville, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-03T00:27:06Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-distributed-systems-platform-engineering-0b7c9c"
+      "published": "2026-07-03T19:28:08Z",
+      "url": "https://www.themuse.com/jobs/apple/sensing-hw-algorithm-systems-engineer-fa5dc0"
+    },
+    {
+      "id": 21890364,
+      "title": "Software Engineer (.NET)",
+      "company": "PNC",
+      "company_logo": "",
+      "locations": [
+        "Overland Park, KS"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-03T18:45:43Z",
+      "url": "https://www.themuse.com/jobs/pnc/software-engineer-net"
     },
     {
       "id": 21526206,
