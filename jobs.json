@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-04T08:35:46Z",
-  "count": 6,
+  "updated": "2026-07-05T08:51:54Z",
+  "count": 5,
   "jobs": [
     {
-      "id": 21783848,
-      "title": "Sensing HW - Algorithm Systems Engineer",
+      "id": 21849723,
+      "title": "Software Engineer - Backend Systems, Insights & Release Technologies",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Emeryville, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-03T19:28:08Z",
-      "url": "https://www.themuse.com/jobs/apple/sensing-hw-algorithm-systems-engineer-fa5dc0"
-    },
-    {
-      "id": 21890364,
-      "title": "Software Engineer (.NET)",
-      "company": "PNC",
-      "company_logo": "",
-      "locations": [
-        "Overland Park, KS"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-03T18:45:43Z",
-      "url": "https://www.themuse.com/jobs/pnc/software-engineer-net"
+      "published": "2026-07-04T19:21:02Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-backend-systems-insights-release-technologies-443c03"
     },
     {
       "id": 21526206,
