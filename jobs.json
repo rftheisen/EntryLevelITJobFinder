@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-05T08:51:54Z",
-  "count": 5,
+  "updated": "2026-07-06T10:20:30Z",
+  "count": 6,
   "jobs": [
     {
-      "id": 21849723,
-      "title": "Software Engineer - Backend Systems, Insights & Release Technologies",
-      "company": "Apple",
+      "id": 21921933,
+      "title": "Identity Security Engineer - SailPoint, Associate",
+      "company": "BlackRock",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Edinburgh, United Kingdom"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-04T19:21:02Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-backend-systems-insights-release-technologies-443c03"
+      "published": "2026-07-05T19:30:20Z",
+      "url": "https://www.themuse.com/jobs/blackrock/identity-security-engineer-sailpoint-associate"
+    },
+    {
+      "id": 21786147,
+      "title": "Software Engineer -  Final Cut Camera - Video Apps",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-05T19:25:07Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-final-cut-camera-video-apps-0b3c58"
     },
     {
       "id": 21526206,
