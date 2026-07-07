@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-06T10:20:30Z",
-  "count": 6,
+  "updated": "2026-07-07T09:39:53Z",
+  "count": 5,
   "jobs": [
+    {
+      "id": 21786055,
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-06T19:25:05Z",
+      "url": "https://www.themuse.com/jobs/apple/site-reliability-engineer-enterprise-technology-services-19fb67"
+    },
     {
       "id": 21921933,
       "title": "Identity Security Engineer - SailPoint, Associate",
@@ -19,42 +37,6 @@
       ],
       "published": "2026-07-05T19:30:20Z",
       "url": "https://www.themuse.com/jobs/blackrock/identity-security-engineer-sailpoint-associate"
-    },
-    {
-      "id": 21786147,
-      "title": "Software Engineer -  Final Cut Camera - Video Apps",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Boulder, CO"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-05T19:25:07Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-final-cut-camera-video-apps-0b3c58"
-    },
-    {
-      "id": 21526206,
-      "title": "Software Engineer Lead - Data and Automation (Python, PySpark, Hadoop, GitHub Copilot)",
-      "company": "PNC",
-      "company_logo": "",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-02T18:58:43Z",
-      "url": "https://www.themuse.com/jobs/pnc/software-engineer-lead-data-and-automation-python-pyspark-hadoop-github-copilot"
     },
     {
       "id": 20211500,
