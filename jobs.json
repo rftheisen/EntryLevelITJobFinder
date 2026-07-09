@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-08T08:27:05Z",
-  "count": 5,
+  "updated": "2026-07-09T09:38:06Z",
+  "count": 7,
   "jobs": [
+    {
+      "id": 21786473,
+      "title": "Software Engineer - Creator Studio",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cary, NC"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-08T19:45:24Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-719d4c"
+    },
+    {
+      "id": 21718132,
+      "title": "Software Engineering",
+      "company": "Zoom",
+      "company_logo": "",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-08T19:27:20Z",
+      "url": "https://www.themuse.com/jobs/zoom/software-engineering"
+    },
     {
       "id": 21927331,
       "title": "Backend Software Engineer Graduate (Multimedia Platform) - 2027 Start (BS/MS)",
