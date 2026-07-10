@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-09T09:38:06Z",
-  "count": 7,
+  "updated": "2026-07-10T09:33:51Z",
+  "count": 8,
   "jobs": [
     {
-      "id": 21786473,
-      "title": "Software Engineer - Creator Studio",
+      "id": 21900003,
+      "title": "Software Engineer - Applications",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cary, NC"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-08T19:45:24Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-719d4c"
+      "published": "2026-07-09T19:48:29Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-applications-cc4b02"
+    },
+    {
+      "id": 21858166,
+      "title": "DevOps Engineer",
+      "company": "Equinix, Inc",
+      "company_logo": "",
+      "locations": [
+        "Flexible / Remote"
+      ],
+      "remote": true,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-09T18:59:20Z",
+      "url": "https://www.themuse.com/jobs/equinixinc/devops-engineer-8105dd"
     },
     {
       "id": 21718132,
