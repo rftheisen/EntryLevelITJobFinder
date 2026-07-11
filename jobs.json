@@ -1,25 +1,7 @@
 {
-  "updated": "2026-07-10T09:33:51Z",
-  "count": 8,
+  "updated": "2026-07-11T07:54:58Z",
+  "count": 6,
   "jobs": [
-    {
-      "id": 21900003,
-      "title": "Software Engineer - Applications",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-09T19:48:29Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-applications-cc4b02"
-    },
     {
       "id": 21858166,
       "title": "DevOps Engineer",
@@ -37,24 +19,6 @@
       ],
       "published": "2026-07-09T18:59:20Z",
       "url": "https://www.themuse.com/jobs/equinixinc/devops-engineer-8105dd"
-    },
-    {
-      "id": 21718132,
-      "title": "Software Engineering",
-      "company": "Zoom",
-      "company_logo": "",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-08T19:27:20Z",
-      "url": "https://www.themuse.com/jobs/zoom/software-engineering"
     },
     {
       "id": 21927331,
