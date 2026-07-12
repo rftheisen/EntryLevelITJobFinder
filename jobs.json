@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-11T07:54:58Z",
-  "count": 6,
+  "updated": "2026-07-12T08:16:08Z",
+  "count": 11,
   "jobs": [
+    {
+      "id": 21943769,
+      "title": "Software Engineer",
+      "company": "Autodesk",
+      "company_logo": "",
+      "locations": [
+        "Sheffield, United Kingdom"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-11T19:54:01Z",
+      "url": "https://www.themuse.com/jobs/autodesk/software-engineer-2d5215"
+    },
+    {
+      "id": 21834488,
+      "title": "Silicon Validation Software Engineer - High Speed IO Validation",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-11T19:36:11Z",
+      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-high-speed-io-validation-f09e7c"
+    },
+    {
+      "id": 21785994,
+      "title": "Full Stack Software Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-11T19:36:09Z",
+      "url": "https://www.themuse.com/jobs/apple/full-stack-software-engineer-acc286"
+    },
+    {
+      "id": 21752752,
+      "title": "WSoC RF Test Automation Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Compton, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-11T19:34:54Z",
+      "url": "https://www.themuse.com/jobs/apple/wsoc-rf-test-automation-engineer-65b806"
+    },
+    {
+      "id": 21762293,
+      "title": "iOS Software Engineer - Video Applications",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-11T19:34:38Z",
+      "url": "https://www.themuse.com/jobs/apple/ios-software-engineer-video-applications-0c3e96"
+    },
+    {
+      "id": 21796341,
+      "title": "Test Engineer, Packaging Product Design",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-11T19:34:35Z",
+      "url": "https://www.themuse.com/jobs/apple/test-engineer-packaging-product-design-9e5145"
+    },
     {
       "id": 21858166,
       "title": "DevOps Engineer",
@@ -91,24 +199,6 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
-    },
-    {
-      "id": 18021225,
-      "title": ".NET Developer with Angular",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Soacha, Colombia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-03-25T12:30:36Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
