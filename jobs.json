@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-13T09:25:33Z",
+  "updated": "2026-07-14T08:03:24Z",
   "count": 9,
   "jobs": [
     {
-      "id": 21785206,
-      "title": "Software Quality Engineer, G&A Solutions Engineering (GSE)",
+      "id": 21784634,
+      "title": "Software Engineer -  Final Cut Camera - Video Apps",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Boulder, CO"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-12T19:26:22Z",
-      "url": "https://www.themuse.com/jobs/apple/software-quality-engineer-ga-solutions-engineering-gse"
+      "published": "2026-07-13T19:14:32Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-final-cut-camera-video-apps-1dd394"
     },
     {
-      "id": 21819399,
-      "title": "System Test Engineer, 5G/6G Wireless Interoperability - Wireless Technologies and Ecosystems",
+      "id": 21752147,
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Diego, CA"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-12T19:25:09Z",
-      "url": "https://www.themuse.com/jobs/apple/system-test-engineer-5g6g-wireless-interoperability-wireless-technologies-and-ecosystems"
+      "published": "2026-07-13T19:13:34Z",
+      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-9322f6"
     },
     {
       "id": 21943769,
