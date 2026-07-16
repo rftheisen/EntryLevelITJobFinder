@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-15T08:08:35Z",
-  "count": 9,
+  "updated": "2026-07-16T08:11:38Z",
+  "count": 7,
   "jobs": [
     {
-      "id": 21784634,
-      "title": "Software Engineer -  Final Cut Camera - Video Apps",
+      "id": 21798062,
+      "title": "Software Engineer (JAVA Software Administrator), IS&T Enterprise Systems",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Boulder, CO"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-13T19:14:32Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-final-cut-camera-video-apps-1dd394"
-    },
-    {
-      "id": 21752147,
-      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-13T19:13:34Z",
-      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-9322f6"
+      "published": "2026-07-15T20:23:45Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-java-software-administrator-ist-enterprise-systems"
     },
     {
       "id": 21943769,
@@ -55,24 +37,6 @@
       ],
       "published": "2026-07-11T19:54:01Z",
       "url": "https://www.themuse.com/jobs/autodesk/software-engineer-2d5215"
-    },
-    {
-      "id": 21858166,
-      "title": "DevOps Engineer",
-      "company": "Equinix, Inc",
-      "company_logo": "",
-      "locations": [
-        "Flexible / Remote"
-      ],
-      "remote": true,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-09T18:59:20Z",
-      "url": "https://www.themuse.com/jobs/equinixinc/devops-engineer-8105dd"
     },
     {
       "id": 21927331,
