@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-16T08:11:38Z",
-  "count": 7,
+  "updated": "2026-07-17T08:08:50Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21798062,
-      "title": "Software Engineer (JAVA Software Administrator), IS&T Enterprise Systems",
+      "id": 21786147,
+      "title": "Software Engineer -  Final Cut Camera - Video Apps",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Boulder, CO"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,44 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-15T20:23:45Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-java-software-administrator-ist-enterprise-systems"
+      "published": "2026-07-16T19:45:39Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-final-cut-camera-video-apps-0b3c58"
+    },
+    {
+      "id": 21748435,
+      "title": "Software Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-16T19:44:20Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-156f4e"
+    },
+    {
+      "id": 21752022,
+      "title": "Software Engineer - Host Access",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-16T19:44:07Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-host-access-6ec817"
     },
     {
       "id": 21943769,
