@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-17T08:08:50Z",
+  "updated": "2026-07-18T07:48:31Z",
   "count": 9,
   "jobs": [
     {
-      "id": 21786147,
-      "title": "Software Engineer -  Final Cut Camera - Video Apps",
-      "company": "Apple",
+      "id": 21792713,
+      "title": "Application Support Engineer - Application Packaging",
+      "company": "DTCC",
       "company_logo": "",
       "locations": [
-        "Boulder, CO"
+        "Hyderabad, India"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-16T19:45:39Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-final-cut-camera-video-apps-0b3c58"
+      "published": "2026-07-17T19:56:30Z",
+      "url": "https://www.themuse.com/jobs/dtcc/application-support-engineer-application-packaging"
     },
     {
-      "id": 21748435,
-      "title": "Software Engineer",
+      "id": 21752090,
+      "title": "Software Engineer, G&A Solutions Engineering (GSE)",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Seattle, WA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -35,16 +35,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-16T19:44:20Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-156f4e"
+      "published": "2026-07-17T19:42:15Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-ga-solutions-engineering-gse-37eddf"
     },
     {
-      "id": 21752022,
-      "title": "Software Engineer - Host Access",
-      "company": "Apple",
+      "id": 21961724,
+      "title": "Technical Analyst",
+      "company": "Experian",
       "company_logo": "",
       "locations": [
-        "Seattle, WA"
+        "Mumbai, India"
       ],
       "remote": false,
       "categories": [
@@ -53,8 +53,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-16T19:44:07Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-host-access-6ec817"
+      "published": "2026-07-17T18:39:49Z",
+      "url": "https://www.themuse.com/jobs/experian/technical-analyst-9edf07"
     },
     {
       "id": 21943769,
