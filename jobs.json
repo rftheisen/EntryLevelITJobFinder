@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-18T07:48:31Z",
-  "count": 9,
+  "updated": "2026-07-19T08:16:30Z",
+  "count": 11,
   "jobs": [
+    {
+      "id": 21751511,
+      "title": "Network Engineer, , Apple Cloud Network",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Emigrant Gap, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-18T19:15:13Z",
+      "url": "https://www.themuse.com/jobs/apple/network-engineer-apple-cloud-network-c6bbe2"
+    },
+    {
+      "id": 21751813,
+      "title": "Software Engineer - VE",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-18T19:15:12Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-ve-6b9a5f"
+    },
+    {
+      "id": 21762297,
+      "title": "iOS Software Engineer - Video Applications",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-18T19:15:11Z",
+      "url": "https://www.themuse.com/jobs/apple/ios-software-engineer-video-applications-d9d842"
+    },
+    {
+      "id": 21798022,
+      "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-18T19:15:07Z",
+      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems"
+    },
     {
       "id": 21792713,
       "title": "Application Support Engineer - Application Packaging",
@@ -19,24 +91,6 @@
       ],
       "published": "2026-07-17T19:56:30Z",
       "url": "https://www.themuse.com/jobs/dtcc/application-support-engineer-application-packaging"
-    },
-    {
-      "id": 21752090,
-      "title": "Software Engineer, G&A Solutions Engineering (GSE)",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-17T19:42:15Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-ga-solutions-engineering-gse-37eddf"
     },
     {
       "id": 21961724,
@@ -145,24 +199,6 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
-    },
-    {
-      "id": 18021225,
-      "title": ".NET Developer with Angular",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Soacha, Colombia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-03-25T12:30:36Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
