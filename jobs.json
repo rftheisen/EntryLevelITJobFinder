@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-21T08:27:17Z",
-  "count": 9,
+  "updated": "2026-07-22T08:28:07Z",
+  "count": 10,
   "jobs": [
     {
-      "id": 21785701,
-      "title": "Software Engineer, SDLC Analytics",
-      "company": "Apple",
+      "id": 21980153,
+      "title": "Site Reliability Engineering",
+      "company": "Palo Alto Networks",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Hyderabad, India"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-20T19:43:13Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-sdlc-analytics-86c149"
+      "published": "2026-07-21T19:58:25Z",
+      "url": "https://www.themuse.com/jobs/paloaltonetworks/site-reliability-engineering"
+    },
+    {
+      "id": 21977941,
+      "title": "Software Engineer III- Eng - (.NET + AI)",
+      "company": "UKG",
+      "company_logo": "",
+      "locations": [
+        "Noida, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-21T18:47:51Z",
+      "url": "https://www.themuse.com/jobs/ukg/software-engineer-iii-eng-net-ai-56b228"
     },
     {
       "id": 21792713,
