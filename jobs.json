@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-22T08:28:07Z",
-  "count": 10,
+  "updated": "2026-07-23T08:28:43Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21980153,
-      "title": "Site Reliability Engineering",
-      "company": "Palo Alto Networks",
+      "id": 21976614,
+      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
+      "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Hyderabad, India"
+        "San Francisco, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-21T19:58:25Z",
-      "url": "https://www.themuse.com/jobs/paloaltonetworks/site-reliability-engineering"
+      "published": "2026-07-22T20:08:36Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-icloud-platform-77e72c"
     },
     {
       "id": 21977941,
@@ -37,24 +37,6 @@
       ],
       "published": "2026-07-21T18:47:51Z",
       "url": "https://www.themuse.com/jobs/ukg/software-engineer-iii-eng-net-ai-56b228"
-    },
-    {
-      "id": 21792713,
-      "title": "Application Support Engineer - Application Packaging",
-      "company": "DTCC",
-      "company_logo": "",
-      "locations": [
-        "Hyderabad, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-17T19:56:30Z",
-      "url": "https://www.themuse.com/jobs/dtcc/application-support-engineer-application-packaging"
     },
     {
       "id": 21961724,
