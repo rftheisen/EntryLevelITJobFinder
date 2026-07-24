@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-23T08:28:43Z",
-  "count": 9,
+  "updated": "2026-07-24T08:26:05Z",
+  "count": 11,
   "jobs": [
     {
-      "id": 21976614,
-      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
+      "id": 21823292,
+      "title": "Build Security Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "San Francisco, CA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,44 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-22T20:08:36Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-icloud-platform-77e72c"
+      "published": "2026-07-23T19:44:24Z",
+      "url": "https://www.themuse.com/jobs/apple/build-security-engineer"
+    },
+    {
+      "id": 21953867,
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-23T19:44:01Z",
+      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-b11fcc"
+    },
+    {
+      "id": 21987437,
+      "title": "Infrastructure Engineer",
+      "company": "Leidos",
+      "company_logo": "",
+      "locations": [
+        "Saint Neots, United Kingdom"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-23T19:06:45Z",
+      "url": "https://www.themuse.com/jobs/leidos/infrastructure-engineer-f1f7e1"
     },
     {
       "id": 21977941,
