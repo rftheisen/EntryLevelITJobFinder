@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-24T08:26:05Z",
+  "updated": "2026-07-25T08:04:50Z",
   "count": 11,
   "jobs": [
     {
-      "id": 21823292,
-      "title": "Build Security Engineer",
+      "id": 21750167,
+      "title": "Hardware Systems Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-23T19:44:24Z",
-      "url": "https://www.themuse.com/jobs/apple/build-security-engineer"
-    },
-    {
-      "id": 21953867,
-      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-23T19:44:01Z",
-      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-b11fcc"
+      "published": "2026-07-24T20:04:54Z",
+      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-a8b95f"
     },
     {
       "id": 21987437,
@@ -145,6 +127,28 @@
       ],
       "published": "2026-07-05T19:30:20Z",
       "url": "https://www.themuse.com/jobs/blackrock/identity-security-engineer-sailpoint-associate"
+    },
+    {
+      "id": 21716718,
+      "title": "Cloud Architect",
+      "company": "Kyndryl",
+      "company_logo": "",
+      "locations": [
+        "Bangalore, India",
+        "Chennai, India",
+        "Greater Noida, India",
+        "Hyderabad, India",
+        "Mumbai, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-20T18:36:32Z",
+      "url": "https://www.themuse.com/jobs/kyndryl/cloud-architect-2a6921"
     },
     {
       "id": 20211500,
