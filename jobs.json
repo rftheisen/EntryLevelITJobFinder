@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-26T08:24:54Z",
-  "count": 11,
+  "updated": "2026-07-27T09:50:49Z",
+  "count": 12,
   "jobs": [
     {
-      "id": 21749918,
-      "title": "Embedded Software Engineer - Biophotonics",
+      "id": 21785433,
+      "title": "Software Engineer, Apple Services Engineering - Commerce",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,8 +17,44 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-25T19:50:54Z",
-      "url": "https://www.themuse.com/jobs/apple/embedded-software-engineer-biophotonics-64f7f3"
+      "published": "2026-07-26T20:17:50Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-commerce-6a5c16"
+    },
+    {
+      "id": 21843848,
+      "title": "AirPods Software Engineer, Sensing & Connectivity",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-26T20:16:55Z",
+      "url": "https://www.themuse.com/jobs/apple/airpods-software-engineer-sensing-connectivity-0c7a30"
+    },
+    {
+      "id": 21997976,
+      "title": "Software Engineer III - UAT, Payments",
+      "company": "JPMorgan Chase",
+      "company_logo": "",
+      "locations": [
+        "Bournemouth, United Kingdom"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-26T19:40:13Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-uat-payments"
     },
     {
       "id": 21987437,
@@ -127,28 +163,6 @@
       ],
       "published": "2026-07-05T19:30:20Z",
       "url": "https://www.themuse.com/jobs/blackrock/identity-security-engineer-sailpoint-associate"
-    },
-    {
-      "id": 21716718,
-      "title": "Cloud Architect",
-      "company": "Kyndryl",
-      "company_logo": "",
-      "locations": [
-        "Bangalore, India",
-        "Chennai, India",
-        "Greater Noida, India",
-        "Hyderabad, India",
-        "Mumbai, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-20T18:36:32Z",
-      "url": "https://www.themuse.com/jobs/kyndryl/cloud-architect-2a6921"
     },
     {
       "id": 20211500,
