@@ -1,10 +1,46 @@
 {
-  "updated": "2026-07-27T09:50:49Z",
-  "count": 12,
+  "updated": "2026-07-28T08:32:31Z",
+  "count": 13,
   "jobs": [
     {
-      "id": 21785433,
-      "title": "Software Engineer, Apple Services Engineering - Commerce",
+      "id": 21786735,
+      "title": "Silicon Validation Software Engineer: Video Encoder/Compression Validation",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Newton, MA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-27T19:43:06Z",
+      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-video-encodercompression-validation-18c281"
+    },
+    {
+      "id": 21865402,
+      "title": "Software Engineer - Apple TV App",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-27T19:41:53Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-tv-app"
+    },
+    {
+      "id": 21784285,
+      "title": "AI Test Engineer, Sensing & Connectivity",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,26 +53,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-26T20:17:50Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-services-engineering-commerce-6a5c16"
-    },
-    {
-      "id": 21843848,
-      "title": "AirPods Software Engineer, Sensing & Connectivity",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-26T20:16:55Z",
-      "url": "https://www.themuse.com/jobs/apple/airpods-software-engineer-sensing-connectivity-0c7a30"
+      "published": "2026-07-27T19:41:47Z",
+      "url": "https://www.themuse.com/jobs/apple/ai-test-engineer-sensing-connectivity"
     },
     {
       "id": 21997976,
