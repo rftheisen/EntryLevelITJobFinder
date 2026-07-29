@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-28T08:32:31Z",
-  "count": 13,
+  "updated": "2026-07-29T08:39:34Z",
+  "count": 11,
   "jobs": [
     {
-      "id": 21786735,
-      "title": "Silicon Validation Software Engineer: Video Encoder/Compression Validation",
-      "company": "Apple",
+      "id": 21850772,
+      "title": "Software Engineer- Full Stack",
+      "company": "PNC",
       "company_logo": "",
       "locations": [
-        "Newton, MA"
+        "Pittsburgh, PA"
       ],
       "remote": false,
       "categories": [
@@ -17,44 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-27T19:43:06Z",
-      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-video-encodercompression-validation-18c281"
-    },
-    {
-      "id": 21865402,
-      "title": "Software Engineer - Apple TV App",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-27T19:41:53Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-apple-tv-app"
-    },
-    {
-      "id": 21784285,
-      "title": "AI Test Engineer, Sensing & Connectivity",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-27T19:41:47Z",
-      "url": "https://www.themuse.com/jobs/apple/ai-test-engineer-sensing-connectivity"
+      "published": "2026-07-28T18:48:50Z",
+      "url": "https://www.themuse.com/jobs/pnc/software-engineer-full-stack"
     },
     {
       "id": 21997976,
