@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-29T08:39:34Z",
-  "count": 11,
+  "updated": "2026-07-30T08:25:21Z",
+  "count": 13,
   "jobs": [
+    {
+      "id": 21969303,
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-29T19:46:47Z",
+      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-b7759d"
+    },
     {
       "id": 21850772,
       "title": "Software Engineer- Full Stack",
@@ -145,6 +163,28 @@
       ],
       "published": "2026-07-05T19:30:20Z",
       "url": "https://www.themuse.com/jobs/blackrock/identity-security-engineer-sailpoint-associate"
+    },
+    {
+      "id": 21716718,
+      "title": "Cloud Architect",
+      "company": "Kyndryl",
+      "company_logo": "",
+      "locations": [
+        "Bangalore, India",
+        "Chennai, India",
+        "Greater Noida, India",
+        "Hyderabad, India",
+        "Mumbai, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-20T18:36:32Z",
+      "url": "https://www.themuse.com/jobs/kyndryl/cloud-architect-2a6921"
     },
     {
       "id": 20211500,
