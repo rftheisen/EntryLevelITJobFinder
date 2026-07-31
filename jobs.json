@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-30T08:25:21Z",
-  "count": 13,
+  "updated": "2026-07-31T08:48:21Z",
+  "count": 16,
   "jobs": [
     {
-      "id": 21969303,
-      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "id": 21786016,
+      "title": "Embedded Software Engineer, Audio & Media Technologies",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-29T19:46:47Z",
-      "url": "https://www.themuse.com/jobs/apple/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems-b7759d"
+      "published": "2026-07-30T19:39:25Z",
+      "url": "https://www.themuse.com/jobs/apple/embedded-software-engineer-audio-media-technologies-163917"
     },
     {
-      "id": 21850772,
-      "title": "Software Engineer- Full Stack",
-      "company": "PNC",
+      "id": 21786587,
+      "title": "Software Engineer - Creator Studio",
+      "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Pittsburgh, PA"
+        "Cary, NC"
       ],
       "remote": false,
       "categories": [
@@ -35,8 +35,80 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-28T18:48:50Z",
-      "url": "https://www.themuse.com/jobs/pnc/software-engineer-full-stack"
+      "published": "2026-07-30T19:39:05Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-0e7bf7"
+    },
+    {
+      "id": 21750167,
+      "title": "Hardware Systems Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-30T19:38:04Z",
+      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-a8b95f"
+    },
+    {
+      "id": 21784376,
+      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-30T19:37:36Z",
+      "url": "https://www.themuse.com/jobs/apple/wifi-software-engineer-wireless-technologies-ecosystems-076c6d"
+    },
+    {
+      "id": 21784512,
+      "title": "Camera Imaging Software Engineer, Camera & Photos",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-30T19:37:29Z",
+      "url": "https://www.themuse.com/jobs/apple/camera-imaging-software-engineer-camera-photos-e0a9aa"
+    },
+    {
+      "id": 21986774,
+      "title": "Java Backend Developer",
+      "company": "Infosys",
+      "company_logo": "",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-30T18:50:27Z",
+      "url": "https://www.themuse.com/jobs/infosys/java-backend-developer-9d77f2"
     },
     {
       "id": 21997976,
@@ -163,28 +235,6 @@
       ],
       "published": "2026-07-05T19:30:20Z",
       "url": "https://www.themuse.com/jobs/blackrock/identity-security-engineer-sailpoint-associate"
-    },
-    {
-      "id": 21716718,
-      "title": "Cloud Architect",
-      "company": "Kyndryl",
-      "company_logo": "",
-      "locations": [
-        "Bangalore, India",
-        "Chennai, India",
-        "Greater Noida, India",
-        "Hyderabad, India",
-        "Mumbai, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-20T18:36:32Z",
-      "url": "https://www.themuse.com/jobs/kyndryl/cloud-architect-2a6921"
     },
     {
       "id": 20211500,
