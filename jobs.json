@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-31T08:48:21Z",
-  "count": 16,
+  "updated": "2026-08-01T08:19:38Z",
+  "count": 13,
   "jobs": [
     {
-      "id": 21786016,
-      "title": "Embedded Software Engineer, Audio & Media Technologies",
+      "id": 21785662,
+      "title": "SoC Security Architect - Platform Architecture",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,16 +17,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-30T19:39:25Z",
-      "url": "https://www.themuse.com/jobs/apple/embedded-software-engineer-audio-media-technologies-163917"
+      "published": "2026-08-01T00:32:55Z",
+      "url": "https://www.themuse.com/jobs/apple/soc-security-architect-platform-architecture-4577c3"
     },
     {
-      "id": 21786587,
-      "title": "Software Engineer - Creator Studio",
-      "company": "Apple",
+      "id": 22014721,
+      "title": "Software Engineer II",
+      "company": "Enovis",
       "company_logo": "",
       "locations": [
-        "Cary, NC"
+        "Brisbane, Australia"
       ],
       "remote": false,
       "categories": [
@@ -35,62 +35,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-07-30T19:39:05Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-creator-studio-0e7bf7"
-    },
-    {
-      "id": 21750167,
-      "title": "Hardware Systems Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-30T19:38:04Z",
-      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-a8b95f"
-    },
-    {
-      "id": 21784376,
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-30T19:37:36Z",
-      "url": "https://www.themuse.com/jobs/apple/wifi-software-engineer-wireless-technologies-ecosystems-076c6d"
-    },
-    {
-      "id": 21784512,
-      "title": "Camera Imaging Software Engineer, Camera & Photos",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-30T19:37:29Z",
-      "url": "https://www.themuse.com/jobs/apple/camera-imaging-software-engineer-camera-photos-e0a9aa"
+      "published": "2026-07-31T18:40:45Z",
+      "url": "https://www.themuse.com/jobs/enovis/software-engineer-ii-6a4ab4"
     },
     {
       "id": 21986774,
