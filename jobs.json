@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-01T08:19:38Z",
-  "count": 13,
+  "updated": "2026-08-02T08:22:44Z",
+  "count": 12,
   "jobs": [
     {
-      "id": 21785662,
-      "title": "SoC Security Architect - Platform Architecture",
+      "id": 21785946,
+      "title": "Silicon Validation Software Engineer: CPU and Memory Hierarchy",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-01T00:32:55Z",
-      "url": "https://www.themuse.com/jobs/apple/soc-security-architect-platform-architecture-4577c3"
+      "published": "2026-08-01T19:57:36Z",
+      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-cpu-and-memory-hierarchy-1dd49d"
     },
     {
       "id": 22014721,
@@ -163,24 +163,6 @@
       ],
       "published": "2026-07-07T20:22:03Z",
       "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-graduate-multimedia-platform-2027-start-bsms"
-    },
-    {
-      "id": 21921933,
-      "title": "Identity Security Engineer - SailPoint, Associate",
-      "company": "BlackRock",
-      "company_logo": "",
-      "locations": [
-        "Edinburgh, United Kingdom"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-05T19:30:20Z",
-      "url": "https://www.themuse.com/jobs/blackrock/identity-security-engineer-sailpoint-associate"
     },
     {
       "id": 20211500,
