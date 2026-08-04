@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-03T09:42:30Z",
+  "updated": "2026-08-04T08:34:52Z",
   "count": 13,
   "jobs": [
     {
-      "id": 21785534,
-      "title": "Software Engineer, Watch Software",
+      "id": 21785019,
+      "title": "iOS/tvOS Software Engineer, Siri Home Devices",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-02T19:51:09Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-watch-software-815527"
-    },
-    {
-      "id": 21953886,
-      "title": "Data Engineer, iOS - Health Technologies",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-02T19:49:13Z",
-      "url": "https://www.themuse.com/jobs/apple/data-engineer-ios-health-technologies-3c08b6"
+      "published": "2026-08-03T19:27:04Z",
+      "url": "https://www.themuse.com/jobs/apple/iostvos-software-engineer-siri-home-devices-c0fd3b"
     },
     {
       "id": 22014721,
@@ -181,6 +163,28 @@
       ],
       "published": "2026-07-07T20:22:03Z",
       "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-graduate-multimedia-platform-2027-start-bsms"
+    },
+    {
+      "id": 21716718,
+      "title": "Cloud Architect",
+      "company": "Kyndryl",
+      "company_logo": "",
+      "locations": [
+        "Bangalore, India",
+        "Chennai, India",
+        "Greater Noida, India",
+        "Hyderabad, India",
+        "Mumbai, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-20T18:36:32Z",
+      "url": "https://www.themuse.com/jobs/kyndryl/cloud-architect-2a6921"
     },
     {
       "id": 20211500,
