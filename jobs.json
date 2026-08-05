@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-04T08:34:52Z",
-  "count": 13,
+  "updated": "2026-08-05T08:34:25Z",
+  "count": 12,
   "jobs": [
     {
-      "id": 21785019,
-      "title": "iOS/tvOS Software Engineer, Siri Home Devices",
+      "id": 21819391,
+      "title": "Software Engineer - Distributed Systems & Platform Engineering",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Cupertino, CA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,26 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-03T19:27:04Z",
-      "url": "https://www.themuse.com/jobs/apple/iostvos-software-engineer-siri-home-devices-c0fd3b"
+      "published": "2026-08-04T19:52:15Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-distributed-systems-platform-engineering-0b7c9c"
+    },
+    {
+      "id": 22020239,
+      "title": "Software Quality Automation Engineer - Phone, FaceTime and Contacts",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-04T19:51:52Z",
+      "url": "https://www.themuse.com/jobs/apple/software-quality-automation-engineer-phone-facetime-and-contacts-0562a2"
     },
     {
       "id": 22014721,
@@ -91,24 +109,6 @@
       ],
       "published": "2026-07-23T19:06:45Z",
       "url": "https://www.themuse.com/jobs/leidos/infrastructure-engineer-f1f7e1"
-    },
-    {
-      "id": 21977941,
-      "title": "Software Engineer III- Eng - (.NET + AI)",
-      "company": "UKG",
-      "company_logo": "",
-      "locations": [
-        "Noida, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-21T18:47:51Z",
-      "url": "https://www.themuse.com/jobs/ukg/software-engineer-iii-eng-net-ai-56b228"
     },
     {
       "id": 21961724,
@@ -221,24 +221,6 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
-    },
-    {
-      "id": 18021225,
-      "title": ".NET Developer with Angular",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Soacha, Colombia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-03-25T12:30:36Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
