@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-05T08:34:25Z",
+  "updated": "2026-08-06T08:34:22Z",
   "count": 12,
   "jobs": [
     {
-      "id": 21819391,
-      "title": "Software Engineer - Distributed Systems & Platform Engineering",
+      "id": 22004594,
+      "title": "Software Engineer - Security Framework",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Seattle, WA"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-04T19:52:15Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-distributed-systems-platform-engineering-0b7c9c"
-    },
-    {
-      "id": 22020239,
-      "title": "Software Quality Automation Engineer - Phone, FaceTime and Contacts",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-04T19:51:52Z",
-      "url": "https://www.themuse.com/jobs/apple/software-quality-automation-engineer-phone-facetime-and-contacts-0562a2"
+      "published": "2026-08-05T19:30:39Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-security-framework"
     },
     {
       "id": 22014721,
@@ -111,6 +93,24 @@
       "url": "https://www.themuse.com/jobs/leidos/infrastructure-engineer-f1f7e1"
     },
     {
+      "id": 21977941,
+      "title": "Software Engineer III- Eng - (.NET + AI)",
+      "company": "UKG",
+      "company_logo": "",
+      "locations": [
+        "Noida, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-07-21T18:47:51Z",
+      "url": "https://www.themuse.com/jobs/ukg/software-engineer-iii-eng-net-ai-56b228"
+    },
+    {
       "id": 21961724,
       "title": "Technical Analyst",
       "company": "Experian",
@@ -127,24 +127,6 @@
       ],
       "published": "2026-07-17T18:39:49Z",
       "url": "https://www.themuse.com/jobs/experian/technical-analyst-9edf07"
-    },
-    {
-      "id": 21943769,
-      "title": "Software Engineer",
-      "company": "Autodesk",
-      "company_logo": "",
-      "locations": [
-        "Sheffield, United Kingdom"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-11T19:54:01Z",
-      "url": "https://www.themuse.com/jobs/autodesk/software-engineer-2d5215"
     },
     {
       "id": 21927331,
@@ -221,6 +203,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
