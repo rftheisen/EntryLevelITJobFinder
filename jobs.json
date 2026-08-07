@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-06T08:34:22Z",
-  "count": 12,
+  "updated": "2026-08-07T07:13:54Z",
+  "count": 11,
   "jobs": [
     {
-      "id": 22004594,
-      "title": "Software Engineer - Security Framework",
-      "company": "Apple",
+      "id": 22004625,
+      "title": "Machine Learning Engineer 3D Geometry/ Multi-Modal",
+      "company": "Autodesk",
       "company_logo": "",
       "locations": [
-        "Seattle, WA"
+        "London, United Kingdom"
       ],
       "remote": false,
       "categories": [
@@ -17,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-05T19:30:39Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-security-framework"
+      "published": "2026-08-06T19:43:23Z",
+      "url": "https://www.themuse.com/jobs/autodesk/machine-learning-engineer-3d-geometry-multimodal-643443"
     },
     {
       "id": 22014721,
@@ -145,28 +145,6 @@
       ],
       "published": "2026-07-07T20:22:03Z",
       "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-graduate-multimedia-platform-2027-start-bsms"
-    },
-    {
-      "id": 21716718,
-      "title": "Cloud Architect",
-      "company": "Kyndryl",
-      "company_logo": "",
-      "locations": [
-        "Bangalore, India",
-        "Chennai, India",
-        "Greater Noida, India",
-        "Hyderabad, India",
-        "Mumbai, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-06-20T18:36:32Z",
-      "url": "https://www.themuse.com/jobs/kyndryl/cloud-architect-2a6921"
     },
     {
       "id": 20211500,
