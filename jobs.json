@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-09T06:54:56Z",
+  "updated": "2026-08-10T07:39:08Z",
   "count": 12,
   "jobs": [
     {
-      "id": 21918369,
-      "title": "Product Security Engineer",
+      "id": 21785946,
+      "title": "Silicon Validation Software Engineer: CPU and Memory Hierarchy",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Seattle, WA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,26 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-08T19:25:25Z",
-      "url": "https://www.themuse.com/jobs/apple/product-security-engineer-84d527"
-    },
-    {
-      "id": 21993314,
-      "title": "QA Engineer, Watch Software",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-08T19:25:10Z",
-      "url": "https://www.themuse.com/jobs/apple/qa-engineer-watch-software-a5d14b"
+      "published": "2026-08-09T19:28:04Z",
+      "url": "https://www.themuse.com/jobs/apple/silicon-validation-software-engineer-cpu-and-memory-hierarchy-1dd49d"
     },
     {
       "id": 22004625,
@@ -217,6 +199,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
