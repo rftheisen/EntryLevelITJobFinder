@@ -1,33 +1,14 @@
 {
-  "updated": "2026-08-11T07:05:27Z",
-  "count": 12,
+  "updated": "2026-08-12T07:23:01Z",
+  "count": 10,
   "jobs": [
     {
-      "id": 21198811,
-      "title": "Software Engineering SMTS - Tableau Cloud",
-      "company": "Salesforce",
-      "company_logo": "",
-      "locations": [
-        "Bangalore, India",
-        "Hyderabad, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-10T20:08:13Z",
-      "url": "https://www.themuse.com/jobs/salesforce/software-engineering-smts-tableau-cloud"
-    },
-    {
-      "id": 21785990,
-      "title": "Full Stack Software Engineer",
+      "id": 22025402,
+      "title": "Hardware Systems Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Austin, TX"
+        "Cupertino, CA"
       ],
       "remote": false,
       "categories": [
@@ -36,8 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-10T19:30:28Z",
-      "url": "https://www.themuse.com/jobs/apple/full-stack-software-engineer-4eb00b"
+      "published": "2026-08-11T19:30:24Z",
+      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-2ef90f"
     },
     {
       "id": 22004625,
@@ -110,24 +91,6 @@
       ],
       "published": "2026-07-23T19:06:45Z",
       "url": "https://www.themuse.com/jobs/leidos/infrastructure-engineer-f1f7e1"
-    },
-    {
-      "id": 21977941,
-      "title": "Software Engineer III- Eng - (.NET + AI)",
-      "company": "UKG",
-      "company_logo": "",
-      "locations": [
-        "Noida, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-21T18:47:51Z",
-      "url": "https://www.themuse.com/jobs/ukg/software-engineer-iii-eng-net-ai-56b228"
     },
     {
       "id": 21961724,
