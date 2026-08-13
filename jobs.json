@@ -1,25 +1,7 @@
 {
-  "updated": "2026-08-12T07:23:01Z",
-  "count": 10,
+  "updated": "2026-08-13T07:25:09Z",
+  "count": 9,
   "jobs": [
-    {
-      "id": 22025402,
-      "title": "Hardware Systems Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-11T19:30:24Z",
-      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-2ef90f"
-    },
     {
       "id": 22004625,
       "title": "Machine Learning Engineer 3D Geometry/ Multi-Modal",
