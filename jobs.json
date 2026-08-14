@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-13T07:25:09Z",
+  "updated": "2026-08-14T07:23:04Z",
   "count": 9,
   "jobs": [
+    {
+      "id": 21918369,
+      "title": "Product Security Engineer, SEAR",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-13T21:07:46Z",
+      "url": "https://www.themuse.com/jobs/apple/product-security-engineer-sear-99dee8"
+    },
+    {
+      "id": 21784162,
+      "title": "Hardware Systems Engineer - Board Design",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-13T21:06:41Z",
+      "url": "https://www.themuse.com/jobs/apple/hardware-systems-engineer-board-design-89519e"
+    },
     {
       "id": 22004625,
       "title": "Machine Learning Engineer 3D Geometry/ Multi-Modal",
@@ -55,24 +91,6 @@
       ],
       "published": "2026-07-26T19:40:13Z",
       "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-uat-payments"
-    },
-    {
-      "id": 21987437,
-      "title": "Infrastructure Engineer",
-      "company": "Leidos",
-      "company_logo": "",
-      "locations": [
-        "Saint Neots, United Kingdom"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-23T19:06:45Z",
-      "url": "https://www.themuse.com/jobs/leidos/infrastructure-engineer-f1f7e1"
     },
     {
       "id": 21961724,
@@ -145,24 +163,6 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
-    },
-    {
-      "id": 18021225,
-      "title": ".NET Developer with Angular",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Soacha, Colombia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-03-25T12:30:36Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
