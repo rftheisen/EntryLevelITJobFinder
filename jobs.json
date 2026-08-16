@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-15T06:35:54Z",
-  "count": 11,
+  "updated": "2026-08-16T06:37:57Z",
+  "count": 9,
   "jobs": [
+    {
+      "id": 21873381,
+      "title": "ML Compute Efficiency Automation Engineer, Infrastructure & Planning",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-15T21:13:11Z",
+      "url": "https://www.themuse.com/jobs/apple/ml-compute-efficiency-automation-engineer-infrastructure-planning"
+    },
     {
       "id": 19567999,
       "title": "Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)",
@@ -19,60 +37,6 @@
       ],
       "published": "2026-08-14T22:08:20Z",
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-graduate-data-arch-data-ecosystem-2026-phd"
-    },
-    {
-      "id": 21784271,
-      "title": "Embedded Software Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-14T21:13:57Z",
-      "url": "https://www.themuse.com/jobs/apple/embedded-software-engineer-9d308a"
-    },
-    {
-      "id": 21749194,
-      "title": "Performance Control Software Engineer - Platform Architecture",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-14T21:13:00Z",
-      "url": "https://www.themuse.com/jobs/apple/performance-control-software-engineer-platform-architecture-13765f"
-    },
-    {
-      "id": 22000970,
-      "title": "Operations Software Engineer- Customer Systems",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-14T21:11:56Z",
-      "url": "https://www.themuse.com/jobs/apple/operations-software-engineer-customer-systems"
     },
     {
       "id": 22004625,
