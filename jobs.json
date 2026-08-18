@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-17T06:53:27Z",
+  "updated": "2026-08-18T06:40:39Z",
   "count": 9,
   "jobs": [
+    {
+      "id": 21764119,
+      "title": "Voice Platform Software Engineer, Customer Systems",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-17T22:04:50Z",
+      "url": "https://www.themuse.com/jobs/apple/voice-platform-software-engineer-customer-systems"
+    },
     {
       "id": 19567999,
       "title": "Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)",
@@ -37,24 +55,6 @@
       ],
       "published": "2026-08-06T19:43:23Z",
       "url": "https://www.themuse.com/jobs/autodesk/machine-learning-engineer-3d-geometry-multimodal-643443"
-    },
-    {
-      "id": 22014721,
-      "title": "Software Engineer II",
-      "company": "Enovis",
-      "company_logo": "",
-      "locations": [
-        "Brisbane, Australia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-31T18:40:45Z",
-      "url": "https://www.themuse.com/jobs/enovis/software-engineer-ii-6a4ab4"
     },
     {
       "id": 21997976,
