@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-19T06:41:06Z",
-  "count": 8,
+  "updated": "2026-08-20T06:43:13Z",
+  "count": 11,
   "jobs": [
+    {
+      "id": 21719490,
+      "title": "Software Engineer (Python & AI Solutions)",
+      "company": "DTCC",
+      "company_logo": "",
+      "locations": [
+        "Jersey City, NJ",
+        "Tampa, FL"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-19T22:47:01Z",
+      "url": "https://www.themuse.com/jobs/dtcc/software-engineer-python-ai-solutions"
+    },
+    {
+      "id": 22058643,
+      "title": "Early-Career Software Engineering with AI and Cybersecurity, Hybrid",
+      "company": "Sandia National Laboratories",
+      "company_logo": "",
+      "locations": [
+        "Albuquerque, NM"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-19T19:39:04Z",
+      "url": "https://www.themuse.com/jobs/sandianationallaboratories/earlycareer-software-engineering-with-ai-and-cybersecurity-hybrid"
+    },
     {
       "id": 19567999,
       "title": "Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)",
@@ -91,6 +128,28 @@
       ],
       "published": "2026-07-07T20:22:03Z",
       "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-graduate-multimedia-platform-2027-start-bsms"
+    },
+    {
+      "id": 21716718,
+      "title": "Cloud Architect",
+      "company": "Kyndryl",
+      "company_logo": "",
+      "locations": [
+        "Bangalore, India",
+        "Chennai, India",
+        "Greater Noida, India",
+        "Hyderabad, India",
+        "Mumbai, India"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-06-20T18:36:32Z",
+      "url": "https://www.themuse.com/jobs/kyndryl/cloud-architect-2a6921"
     },
     {
       "id": 20211500,
