@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-23T06:38:48Z",
-  "count": 8,
+  "updated": "2026-08-24T06:56:02Z",
+  "count": 10,
   "jobs": [
+    {
+      "id": 21785314,
+      "title": "Software Engineer, Reliability Engineering, AiDP",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-24T05:19:00Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-reliability-engineering-aidp-235055"
+    },
+    {
+      "id": 22075457,
+      "title": "Applied Data Solutions Program, Software Engineering (Full-Time Opportunities)",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-24T05:09:00Z",
+      "url": "https://www.themuse.com/jobs/apple/applied-data-solutions-program-software-engineering-fulltime-opportunities-04eab3"
+    },
     {
       "id": 21719490,
       "title": "Software Engineer (Python & AI Solutions)",
