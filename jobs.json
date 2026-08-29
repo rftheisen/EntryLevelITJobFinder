@@ -1,15 +1,14 @@
 {
-  "updated": "2026-08-28T18:14:41Z",
-  "count": 8,
+  "updated": "2026-08-29T12:21:50Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21719490,
-      "title": "Software Engineer (Python & AI Solutions)",
-      "company": "DTCC",
+      "id": 22068914,
+      "title": "Wi-Fi Tools and Automation Engineer, Wireless Technologies & Ecosystems",
+      "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Jersey City, NJ",
-        "Tampa, FL"
+        "San Diego, CA"
       ],
       "remote": false,
       "categories": [
@@ -18,8 +17,27 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-08-19T22:47:01Z",
-      "url": "https://www.themuse.com/jobs/dtcc/software-engineer-python-ai-solutions"
+      "published": "2026-08-29T00:56:58Z",
+      "url": "https://www.themuse.com/jobs/apple/wifi-tools-and-automation-engineer-wireless-technologies-ecosystems-2a8c20"
+    },
+    {
+      "id": 22104924,
+      "title": "Information Security Engineer",
+      "company": "Equinix, Inc",
+      "company_logo": "",
+      "locations": [
+        "Flexible / Remote",
+        "Warsaw, Poland"
+      ],
+      "remote": true,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-08-28T20:40:03Z",
+      "url": "https://www.themuse.com/jobs/equinixinc/information-security-engineer-1b2b4c"
     },
     {
       "id": 19567999,
@@ -38,24 +56,6 @@
       ],
       "published": "2026-08-14T22:08:20Z",
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-graduate-data-arch-data-ecosystem-2026-phd"
-    },
-    {
-      "id": 22004625,
-      "title": "Machine Learning Engineer 3D Geometry/ Multi-Modal",
-      "company": "Autodesk",
-      "company_logo": "",
-      "locations": [
-        "London, United Kingdom"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-06T19:43:23Z",
-      "url": "https://www.themuse.com/jobs/autodesk/machine-learning-engineer-3d-geometry-multimodal-643443"
     },
     {
       "id": 21997976,
@@ -146,6 +146,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
