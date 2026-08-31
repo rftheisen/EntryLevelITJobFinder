@@ -1,25 +1,7 @@
 {
-  "updated": "2026-08-30T11:20:42Z",
-  "count": 9,
+  "updated": "2026-08-31T12:49:27Z",
+  "count": 8,
   "jobs": [
-    {
-      "id": 21751443,
-      "title": "Software Engineer (Enablon), G&A Solutions Engineering (GSE)",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-08-30T02:05:25Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-enablon-ga-solutions-engineering-gse-4981b0"
-    },
     {
       "id": 22104924,
       "title": "Information Security Engineer",
