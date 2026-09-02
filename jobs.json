@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-01T11:10:32Z",
-  "count": 8,
+  "updated": "2026-09-02T10:43:25Z",
+  "count": 9,
   "jobs": [
+    {
+      "id": 22043908,
+      "title": "Java Developer",
+      "company": "Infosys",
+      "company_logo": "",
+      "locations": [
+        "Austin, TX"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-09-01T21:41:04Z",
+      "url": "https://www.themuse.com/jobs/infosys/java-developer-2a7bde"
+    },
     {
       "id": 22104924,
       "title": "Information Security Engineer",
