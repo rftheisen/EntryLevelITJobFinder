@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-02T10:43:25Z",
-  "count": 9,
+  "updated": "2026-09-03T10:44:28Z",
+  "count": 11,
   "jobs": [
+    {
+      "id": 22117829,
+      "title": "Automation Engineer I",
+      "company": "Jabil",
+      "company_logo": "",
+      "locations": [
+        "Florence, KY"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-09-02T03:34:34Z",
+      "url": "https://www.themuse.com/jobs/jabil/automation-engineer-i-4c13b3"
+    },
+    {
+      "id": 22117303,
+      "title": "Software Engineer III - Resiliency Tech",
+      "company": "JPMorgan Chase",
+      "company_logo": "",
+      "locations": [
+        "Jersey City, NJ"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-09-02T03:02:44Z",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-resiliency-tech"
+    },
     {
       "id": 22043908,
       "title": "Java Developer",
