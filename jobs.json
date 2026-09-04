@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-03T10:44:28Z",
-  "count": 11,
+  "updated": "2026-09-04T10:41:42Z",
+  "count": 12,
   "jobs": [
+    {
+      "id": 21783840,
+      "title": "Sensing HW - Algorithm Systems Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-09-03T20:35:54Z",
+      "url": "https://www.themuse.com/jobs/apple/sensing-hw-algorithm-systems-engineer-2eb999"
+    },
+    {
+      "id": 22065288,
+      "title": "System Software Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-09-03T20:32:23Z",
+      "url": "https://www.themuse.com/jobs/apple/system-software-engineer-a1f85b"
+    },
+    {
+      "id": 22111399,
+      "title": "DRM Software Engineer",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Montvale, NJ"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-09-03T20:31:18Z",
+      "url": "https://www.themuse.com/jobs/apple/drm-software-engineer"
+    },
     {
       "id": 22117829,
       "title": "Automation Engineer I",
@@ -19,24 +73,6 @@
       ],
       "published": "2026-09-02T03:34:34Z",
       "url": "https://www.themuse.com/jobs/jabil/automation-engineer-i-4c13b3"
-    },
-    {
-      "id": 22117303,
-      "title": "Software Engineer III - Resiliency Tech",
-      "company": "JPMorgan Chase",
-      "company_logo": "",
-      "locations": [
-        "Jersey City, NJ"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-09-02T03:02:44Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-resiliency-tech"
     },
     {
       "id": 22043908,
@@ -182,24 +218,6 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
-    },
-    {
-      "id": 18021225,
-      "title": ".NET Developer with Angular",
-      "company": "EPAM Systems",
-      "company_logo": "",
-      "locations": [
-        "Soacha, Colombia"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2025-03-25T12:30:36Z",
-      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
