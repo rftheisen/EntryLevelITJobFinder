@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-04T10:41:42Z",
+  "updated": "2026-09-05T10:00:47Z",
   "count": 12,
   "jobs": [
     {
-      "id": 21783840,
+      "id": 21783848,
       "title": "Sensing HW - Algorithm Systems Engineer",
       "company": "Apple",
       "company_logo": "",
@@ -17,12 +17,12 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-09-03T20:35:54Z",
-      "url": "https://www.themuse.com/jobs/apple/sensing-hw-algorithm-systems-engineer-2eb999"
+      "published": "2026-09-04T20:31:02Z",
+      "url": "https://www.themuse.com/jobs/apple/sensing-hw-algorithm-systems-engineer-fa5dc0"
     },
     {
-      "id": 22065288,
-      "title": "System Software Engineer",
+      "id": 21923139,
+      "title": "ML Software Engineer",
       "company": "Apple",
       "company_logo": "",
       "locations": [
@@ -35,16 +35,16 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-09-03T20:32:23Z",
-      "url": "https://www.themuse.com/jobs/apple/system-software-engineer-a1f85b"
+      "published": "2026-09-04T20:30:07Z",
+      "url": "https://www.themuse.com/jobs/apple/ml-software-engineer-b95a7e"
     },
     {
-      "id": 22111399,
-      "title": "DRM Software Engineer",
+      "id": 22020207,
+      "title": "Software Engineer, Agentic Developer Platform",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Montvale, NJ"
+        "Seattle, WA"
       ],
       "remote": false,
       "categories": [
@@ -53,8 +53,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-09-03T20:31:18Z",
-      "url": "https://www.themuse.com/jobs/apple/drm-software-engineer"
+      "published": "2026-09-04T20:29:56Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-agentic-developer-platform"
     },
     {
       "id": 22117829,
