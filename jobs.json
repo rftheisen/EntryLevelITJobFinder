@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-05T10:00:47Z",
-  "count": 12,
+  "updated": "2026-09-06T10:20:28Z",
+  "count": 9,
   "jobs": [
     {
-      "id": 21783848,
-      "title": "Sensing HW - Algorithm Systems Engineer",
+      "id": 21750131,
+      "title": "Software Engineer - Strategic Data Solutions",
       "company": "Apple",
       "company_logo": "",
       "locations": [
-        "Emeryville, CA"
+        "Austin, TX"
       ],
       "remote": false,
       "categories": [
@@ -17,44 +17,8 @@
       "levels": [
         "mid"
       ],
-      "published": "2026-09-04T20:31:02Z",
-      "url": "https://www.themuse.com/jobs/apple/sensing-hw-algorithm-systems-engineer-fa5dc0"
-    },
-    {
-      "id": 21923139,
-      "title": "ML Software Engineer",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-09-04T20:30:07Z",
-      "url": "https://www.themuse.com/jobs/apple/ml-software-engineer-b95a7e"
-    },
-    {
-      "id": 22020207,
-      "title": "Software Engineer, Agentic Developer Platform",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-09-04T20:29:56Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-agentic-developer-platform"
+      "published": "2026-09-05T21:13:04Z",
+      "url": "https://www.themuse.com/jobs/apple/software-engineer-strategic-data-solutions-dc6d69"
     },
     {
       "id": 22117829,
@@ -128,24 +92,6 @@
       ],
       "published": "2026-08-14T22:08:20Z",
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-graduate-data-arch-data-ecosystem-2026-phd"
-    },
-    {
-      "id": 21997976,
-      "title": "Software Engineer III - UAT, Payments",
-      "company": "JPMorgan Chase",
-      "company_logo": "",
-      "locations": [
-        "Bournemouth, United Kingdom"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-26T19:40:13Z",
-      "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-uat-payments"
     },
     {
       "id": 21961724,
