@@ -1,25 +1,7 @@
 {
-  "updated": "2026-09-06T10:20:28Z",
-  "count": 9,
+  "updated": "2026-09-07T11:41:27Z",
+  "count": 8,
   "jobs": [
-    {
-      "id": 21750131,
-      "title": "Software Engineer - Strategic Data Solutions",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-09-05T21:13:04Z",
-      "url": "https://www.themuse.com/jobs/apple/software-engineer-strategic-data-solutions-dc6d69"
-    },
     {
       "id": 22117829,
       "title": "Automation Engineer I",
