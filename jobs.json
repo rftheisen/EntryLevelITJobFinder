@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T11:41:27Z",
+  "updated": "2026-09-08T10:40:24Z",
   "count": 8,
   "jobs": [
     {
@@ -19,24 +19,6 @@
       ],
       "published": "2026-09-02T03:34:34Z",
       "url": "https://www.themuse.com/jobs/jabil/automation-engineer-i-4c13b3"
-    },
-    {
-      "id": 22043908,
-      "title": "Java Developer",
-      "company": "Infosys",
-      "company_logo": "",
-      "locations": [
-        "Austin, TX"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-09-01T21:41:04Z",
-      "url": "https://www.themuse.com/jobs/infosys/java-developer-2a7bde"
     },
     {
       "id": 22104924,
@@ -146,6 +128,24 @@
       ],
       "published": "2025-09-09T20:33:24Z",
       "url": "https://www.themuse.com/jobs/walmart/software-engineer-iii-45d9b4"
+    },
+    {
+      "id": 18021225,
+      "title": ".NET Developer with Angular",
+      "company": "EPAM Systems",
+      "company_logo": "",
+      "locations": [
+        "Soacha, Colombia"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2025-03-25T12:30:36Z",
+      "url": "https://www.themuse.com/jobs/epamsystems/net-developer-with-angular"
     }
   ]
 }
