@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-12T10:10:17Z",
+  "updated": "2026-09-13T11:09:54Z",
   "count": 8,
   "jobs": [
+    {
+      "id": 21785019,
+      "title": "iOS/tvOS Software Engineer, Siri Home Devices",
+      "company": "Apple",
+      "company_logo": "",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "remote": false,
+      "categories": [
+        "Software Engineering"
+      ],
+      "levels": [
+        "mid"
+      ],
+      "published": "2026-09-12T21:09:27Z",
+      "url": "https://www.themuse.com/jobs/apple/iostvos-software-engineer-siri-home-devices-c0fd3b"
+    },
     {
       "id": 22117829,
       "title": "Automation Engineer I",
@@ -56,24 +74,6 @@
       ],
       "published": "2026-08-14T22:08:20Z",
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-graduate-data-arch-data-ecosystem-2026-phd"
-    },
-    {
-      "id": 21961724,
-      "title": "Technical Analyst",
-      "company": "Experian",
-      "company_logo": "",
-      "locations": [
-        "Mumbai, India"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-07-17T18:39:49Z",
-      "url": "https://www.themuse.com/jobs/experian/technical-analyst-9edf07"
     },
     {
       "id": 21927331,
