@@ -1,25 +1,7 @@
 {
-  "updated": "2026-09-13T11:09:54Z",
-  "count": 8,
+  "updated": "2026-09-14T11:55:36Z",
+  "count": 7,
   "jobs": [
-    {
-      "id": 21785019,
-      "title": "iOS/tvOS Software Engineer, Siri Home Devices",
-      "company": "Apple",
-      "company_logo": "",
-      "locations": [
-        "Cupertino, CA"
-      ],
-      "remote": false,
-      "categories": [
-        "Software Engineering"
-      ],
-      "levels": [
-        "mid"
-      ],
-      "published": "2026-09-12T21:09:27Z",
-      "url": "https://www.themuse.com/jobs/apple/iostvos-software-engineer-siri-home-devices-c0fd3b"
-    },
     {
       "id": 22117829,
       "title": "Automation Engineer I",
